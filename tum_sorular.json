@@ -37,6 +37,18 @@
   },
   {
     "no": "4",
+    "body": "Kitapta, Tolstoy'un hayatın anlamına dair sorulara cevap ararken başvurduğu iki disiplin ve onların tutumu anlatılmıştır. Bu disiplinler, Tolstoy'a \"istediğini sor\" dedikten sonra belirli konuları sormamasını söylemişlerdir.\n\nKitaba göre felsefe ve bilimin Tolstoy'a \"sorma\" dediği konular aşağıdakilerden hangisidir?",
+    "options": [
+      "Yıldızlar, hayvanlar ve bitkiler hakkındaki sorular",
+      "Hayatın amacı, ölümün sebebi gibi varoluşsal sorular",
+      "Evrenin yapısı ve fizik yasaları hakkındaki sorular",
+      "Toplumsal düzen ve ahlak kuralları hakkındaki sorular"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "5",
     "body": "Kitapta, Kur'ân-ı Kerîm'in insanın aklına takılan sorulara verdiği cevapların onun evrenselliğini gösteren en mühim unsur olduğu belirtilmiş ve bu evrenselliğin gerekçesi açıklanmıştır.\n\nBuna göre Kur'ân'ın cevaplarının evrensel olmasının sebebi aşağıdakilerden hangisidir?",
     "options": [
       "Zamanın, mekânın ve milletlerin değişmesinin ne soruları değiştirebilmesi ne de cevapları çürütebilmesi",
@@ -48,7 +60,7 @@
     "sinav": 1
   },
   {
-    "no": "5",
+    "no": "6",
     "body": "Kitapta tevhid kavramı, yalnızca Allah'ın varlığını ve birliğini kabul etmekle sınırlı tutulmamış, daha geniş bir çerçevede tanımlanmıştır.\n\nBuna göre aşağıdakilerden hangisi kitaptaki tevhid tanımının bir parçasıdır?",
     "options": [
       "Allah'ın isimlerini ve sıfatlarını ezbere bilmek",
@@ -60,7 +72,7 @@
     "sinav": 1
   },
   {
-    "no": "6",
+    "no": "7",
     "body": "Kitapta ölüm kavramı, insanın tamamen yok olması anlamında değerlendirilmemiştir. Aksine ölüm, ruhun bu dünyadan ayrılarak başka bir âleme geçişi olarak tanımlanmıştır. Bu geçiş âlemi, insanın varlık yolculuğunda yeni bir safhayı teşkil etmektedir.\n\nKitaba göre bu geçiş âleminin adı aşağıdakilerden hangisidir?",
     "options": [
       "Berzah",
@@ -72,7 +84,19 @@
     "sinav": 1
   },
   {
-    "no": "7",
+    "no": "8",
+    "body": "Kitapta şükrün en güzel şeklinin ne olduğu belirtilmiştir. Buna göre dille, fiille ve kalple yapılan şükrün ötesinde, şükrün zirve noktası belirli bir ibadettir.\n\nKitaba göre şükrün en güzel şekli aşağıdakilerden hangisidir?",
+    "options": [
+      "Sadaka vermek",
+      "Oruç tutmak",
+      "Namaz",
+      "Hac yapmak"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "9",
     "body": "Kitapta haşir inancının kapsamı açıklanırken, bu inancın sadece ölüm sonrası bir aşamayı değil, daha geniş bir bilinç halini de beraberinde getirdiği belirtilmiştir.\n\nBuna göre haşir inancının beraberinde getirdiği bilinç hali aşağıdakilerden hangisidir?",
     "options": [
       "Cennet ve cehennemin fiziksel yapısını bilme",
@@ -84,7 +108,7 @@
     "sinav": 1
   },
   {
-    "no": "8",
+    "no": "10",
     "body": "Kitapta ibadet kavramı kısa ve özlü bir şekilde tanımlanmıştır.\n\nAşağıdakilerden hangisi kitaptaki ibadet tanımıdır?",
     "options": [
       "Allah'ın emrettiklerini yapıp yasaklarından kaçınmaktır",
@@ -96,7 +120,7 @@
     "sinav": 1
   },
   {
-    "no": "9",
+    "no": "11",
     "body": "Kitapta, İslam inanç sistemine göre kâinattaki tüm varlıkların Allah'a bir tür ibadet halinde olduğu anlatılmıştır. Her varlığın kendisine özgü bir tabiat ve işlevle yaratılmış olup bu işlevi yerine getirmek suretiyle ilahî iradeye tâbi olduğu belirtilmiştir.\n\nKitapta bu durum hangi benzetmeyle açıklanmıştır?",
     "options": [
       "Bir devlet teşkilatında farklı alanlarda hizmet veren görevlilerin çeşitli sorumluluklara sahip olması gibi",
@@ -108,7 +132,19 @@
     "sinav": 1
   },
   {
-    "no": "10",
+    "no": "12",
+    "body": "Kitapta Hz. İbrahim'in misafirlerine ikram ettiği yemek belirtilmiştir. Melekler yemeğin \"fiyatını\" ödemeden yemeyeceklerini söyleyince Hz. İbrahim bu fiyatı kendisi belirlemiştir.\n\nHz. İbrahim'in belirlediği fiyat aşağıdakilerden hangisidir?",
+    "options": [
+      "Yemekten önce abdest almak, sonra namaz kılmak",
+      "Yemekten önce dua etmek, sonra şükür secdesi yapmak",
+      "Yemeğe başlarken Bismillah demek, bitirince Elhamdülillâh demek",
+      "Yemekten önce ve sonra elleri yıkamak"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "13",
     "body": "Kitapta hayvanların ve cansız varlıkların Allah'ı nasıl tesbih ettiği konusunda âlimlerin iki farklı görüşü aktarılmıştır. Birinci görüşe göre bütün varlıklar kendilerine mahsus bir hayat ve şuurla tesbih ederler. İkinci görüşe göre ise varlıklar dilleriyle değil, yaptıkları fiillerle Allah'ın yüceliğini ifade ederler.\n\nKitaba göre bu iki görüş hakkında aşağıdakilerden hangisi söylenmiştir?",
     "options": [
       "Birinci görüş tercih edilmiş, ikincisi reddedilmiştir",
@@ -120,7 +156,7 @@
     "sinav": 1
   },
   {
-    "no": "11",
+    "no": "14",
     "body": "Kitapta, lisan-ı hal kavramı bir örnekle açıklanmıştır. Bu örneğe göre bir nesne insanlarla \"konuşur\" ve onlara bilgi verir, fakat kendisi konuştuğunun farkında değildir.\n\nKitapta lisan-ı hal kavramını açıklamak için verilen bu örnek aşağıdakilerden hangisidir?",
     "options": [
       "Arının bal üretmesi",
@@ -132,7 +168,7 @@
     "sinav": 1
   },
   {
-    "no": "12",
+    "no": "15",
     "body": "Sahâbeden Ebu Zerr (ra) tarafından aktarılan bir rivayete göre, Peygamber Efendimizin (sav) önünde bulunan yedi çakıl taşı, Peygamberimizin avucuna alınmasıyla birlikte belirli bir ses çıkararak tesbih etmeye başlamıştır. Peygamberimiz bu taşları sırasıyla üç sahâbîsinin de avucuna koymuş ve taşlar her birinin elinde tesbih etmiştir.\n\nBu rivayete göre aşağıdakilerden hangisi yanlıştır?",
     "options": [
       "Taşlar arıların vızıldaması gibi ses çıkararak tesbih etmiştir",
@@ -144,7 +180,19 @@
     "sinav": 1
   },
   {
-    "no": "13",
+    "no": "16",
+    "body": "Kitapta Hz. Cebrail, Hz. İbrahim'in misafirperverliğini gördükten sonra Hz. Mikail'e dönerek onun hakkında önemli bir söz söylemiştir.\n\nHz. Cebrail'in Hz. İbrahim hakkındaki bu sözü aşağıdakilerden hangisidir?",
+    "options": [
+      "Bu zat, peygamberlerin en sabırlısıdır",
+      "Bu zat, insanların en cömert olanıdır",
+      "Bu zat, Allah'ın dost edinmeye layık gördüğü bir kişidir",
+      "Bu zat, meleklere bile örnek olan bir kuldur"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "17",
     "body": "Kitapta ağaçların ve bitkilerin secde etmesi konusunda âlimlerin iki farklı yorumu aktarılmıştır.\n\nAşağıdakilerden hangisi bu iki yorumdan biri değildir?",
     "options": [
       "Ağaçların ve bitkilerin secde etmesi, Allah'ın kanunlarına itaat ederek boyun eğmeleridir",
@@ -156,7 +204,7 @@
     "sinav": 1
   },
   {
-    "no": "14",
+    "no": "18",
     "body": "Kitapta kâinat bir mescide benzetilmiş ve namaz kılmayan insanın durumu bu benzetme üzerinden değerlendirilmiştir. Buna göre bütün varlıklar yaratılışlarının diliyle ibadetle meşgulken, insan bu büyük ibadet topluluğunun içinde namaz kılmazsa belirli bir sonuçla karşılaşacaktır.\n\nKitaba göre namaz kılmayan insanın bu benzetmedeki sonucu aşağıdakilerden hangisidir?",
     "options": [
       "Kâinattaki mahlûklar ona öfkelenir ve ondan hoşnut olmazlar",
@@ -168,7 +216,7 @@
     "sinav": 1
   },
   {
-    "no": "15",
+    "no": "19",
     "body": "Kitapta insanların ibadet etme sebepleri üç ana kategoride sınıflandırılmıştır:\n\nI. Allah'ın nimetlerine bakarak şükretmek için ibadet etmek\nII. Cehennemden korunmak ve cenneti kazanmak amacıyla ibadet etmek\nIII. Allah'ın azametini, büyüklüğünü ve yüceliğini görüp, askerin komutana itaati gibi başka hiçbir gerekçe aramadan ibadet etmek\nIV. Toplumda saygınlık kazanmak ve insanlar tarafından takdir edilmek için ibadet etmek\n\nKitaba göre yukarıdakilerden hangisi veya hangileri ibadet motivasyonları arasında yer almaz?",
     "options": [
       "III ve IV",
@@ -180,7 +228,19 @@
     "sinav": 1
   },
   {
-    "no": "16",
+    "no": "20",
+    "body": "Kitapta insanların nimeti yalnızca yiyip içtikleriyle sınırlı gördükleri eleştirilmiştir. Sahâbeden Ebu'd-Derdâ bu konuda önemli bir uyarıda bulunmuştur.\n\nEbu'd-Derdâ'ya göre nimeti sadece yediği ve içtiği şeylerde gören kişi hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Allah'ın nimetlerini bilmemiş, ameli azalmış ve azabı hazırlanmış demektir",
+      "Şükrünü eda etmiş sayılır",
+      "En azından temel nimeti fark etmiş demektir",
+      "Diğer nimetleri de zamanla fark edecektir"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "21",
     "body": "Kitapta, Allah'ın azametini ve büyüklüğünü görerek ibadet eden üçüncü grup insanların tavırları bir benzetmeyle açıklanmıştır. Bu grubun ibadet anlayışı, herhangi bir karşılık beklemeksizin sadece emre itaat etme şeklinde tarif edilmiştir.\n\nKitapta bu ibadet anlayışı hangi benzetmeyle ifade edilmiştir?",
     "options": [
       "Askerin komutana itaati gibi",
@@ -192,7 +252,7 @@
     "sinav": 1
   },
   {
-    "no": "17",
+    "no": "22",
     "body": "Kitapta namaz kılmayan bir asker ile namaz kılan bir asker arasında geçen bir diyalog aktarılmaktadır. Namaz kılmayan asker, arkadaşına \"Hangi asırda yaşıyoruz? Niçin kendini zahmete sokup her gün 5 defa namaz kılıyorsun?\" diye sorar. Namaz kılan asker ise cevabında, arkadaşının bir teğmene itaat etmesini örnek göstererek bir karşılaştırma yapar.\n\nNamaz kılan askerin cevabındaki temel argüman aşağıdakilerden hangisidir?",
     "options": [
       "Namazın insan sağlığına faydalarının bilimsel olarak kanıtlanmış olması",
@@ -204,7 +264,7 @@
     "sinav": 1
   },
   {
-    "no": "18",
+    "no": "23",
     "body": "Kitapta uçak metaforu kullanılarak insanın dünya hayatındaki durumu anlatılmıştır. Dünya, bir uçaktan farklı olmayan bir ortam olarak tanımlanmış ve daha doğru bir ifadeyle adlandırılmıştır.\n\nKitaba göre dünya aşağıdakilerden hangisine benzetilmiştir?",
     "options": [
       "Bir gemiye",
@@ -216,7 +276,19 @@
     "sinav": 1
   },
   {
-    "no": "19",
+    "no": "24",
+    "body": "Kitapta, Peygamberimizin bütün günahları affedildiği halde sabahlara kadar namaz kılmasının sebebi sorulduğunda verdiği cevap aktarılmıştır.\n\nPeygamberimizin bu soruya verdiği cevap aşağıdakilerden hangisidir?",
+    "options": [
+      "Ümmetine örnek olmak istiyorum",
+      "Rabbimin emrini yerine getiriyorum",
+      "Şükreden bir kul olmayayım mı?",
+      "Cennetin en yüksek derecesini istiyorum"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "25",
     "body": "Kitapta, insanın hayatın anlamına dair dört temel soruyu cevaplandırmadıkça bazı şeyleri bilmesinin mümkün olmayacağı vurgulanmıştır.\n\nAşağıdakilerden hangisi bu dört sorunun cevapsız kalması durumunda kitapta belirtilen sonuçlardan biri değildir?",
     "options": [
       "Niçin yaşadığımızı bilmeden yaşarız",
@@ -228,7 +300,7 @@
     "sinav": 1
   },
   {
-    "no": "20",
+    "no": "26",
     "body": "Kitapta, Kur'ân-ı Kerîm'in dört temel esası anlatılmıştır. Bu esaslardan birinin kapsamı açıklanırken sadece ibadetlerden bahsetmekle kalmayıp, aynı zamanda şahsî hayat, aile hayatı ve diğer insanlara karşı vazifelerin de bu esasın içinde yer aldığı belirtilmiştir.\n\nBu geniş kapsamlı esas aşağıdakilerden hangisidir?",
     "options": [
       "Tevhid hakikati",
@@ -240,7 +312,7 @@
     "sinav": 1
   },
   {
-    "no": "21",
+    "no": "27",
     "body": "Tolstoy, hayatın anlamına dair sorulara cevap bulmak için felsefeye ve bilime başvurmuştur. Kitapta, felsefe ve bilimin bu sorulara yaklaşımı aktarılmıştır.\n\nKitaba göre felsefe ve bilimin bu sorular karşısındaki tutumu aşağıdakilerden hangisidir?",
     "options": [
       "\"Yıldızları, hayvanları, bitkileri her şeyi sor ama bunları sorma, çünkü bu soruların cevabı yok\" demişlerdir",
@@ -252,7 +324,19 @@
     "sinav": 1
   },
   {
-    "no": "22",
+    "no": "28",
+    "body": "Kitapta, Peygamberimizin sevinçli ve üzüntülü anlarda farklı hamd ifadeleri kullandığı aktarılmıştır.\n\nKitaba göre Peygamberimiz kendisini sevindiren bir durum olduğunda ve hoşuna gitmeyen bir durum olduğunda sırasıyla ne derdi?",
+    "options": [
+      "Sevinçte: 'Allahu Ekber'; üzüntüde: 'İnnâ lillâh'",
+      "Sevinçte: 'Salih amellerin nimetiyle tamamlandığı Allah'a hamd ederim'; üzüntüde: 'Her hal üzere Allah'a hamd olsun'",
+      "Sevinçte: 'Sübhânallah'; üzüntüde: 'Lâ havle velâ kuvvete illâ billâh'",
+      "Sevinçte ve üzüntüde aynı şeyi söylerdi: 'Elhamdülillah'"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "29",
     "body": "Kitapta varlıkların ibadet biçimleri anlatılırken, insanın ibadeti ile diğer varlıkların ibadeti arasındaki temel fark vurgulanmıştır. Buna göre tüm varlıklar bir tür ibadet halindedir, ancak insanın ibadeti diğer varlıklardan belirli bir yönüyle ayrılmaktadır.\n\nKitaba göre insanın ibadetini diğer varlıklardan ayıran temel özellik aşağıdakilerden hangisidir?",
     "options": [
       "İnsanın ibadetinin daha uzun sürmesi",
@@ -264,7 +348,7 @@
     "sinav": 1
   },
   {
-    "no": "23",
+    "no": "30",
     "body": "Kitapta, İslam inanç sistemine göre kâinattaki her bir varlığın varoluşsal görevi çerçevesinde belirli bir konumda olduğu ifade edilmiştir.\n\nKitaba göre her bir varlık, ilahî iradenin hangi konumundadır?",
     "options": [
       "Bir nevi şahidi",
@@ -276,7 +360,7 @@
     "sinav": 1
   },
   {
-    "no": "24",
+    "no": "31",
     "body": "Kitapta, insanların ibadet etme sebepleri anlatıldıktan sonra bazı insanların bu sebepleri tek tek değil, hepsini bir arada değerlendirdikleri belirtilmiştir. Ardından ibadetlerin çeşitliliğine dikkat çekilmiş ve bunlar arasında en mühim olanı vurgulanmıştır.\n\nKitaba göre namazın diğer ibadetlerden ayrılan en önemli özelliği aşağıdakilerden hangisidir?",
     "options": [
       "Günde beş vakit farz kılınmış olması",
@@ -288,7 +372,19 @@
     "sinav": 1
   },
   {
-    "no": "25",
+    "no": "32",
+    "body": "Kitapta, Peygamberimizin ümmetinin Tevrat'ta geçen bir sıfatla anıldığı belirtilmiştir.\n\nKitaba göre bu sıfat ve anlamı aşağıdakilerden hangisidir?",
+    "options": [
+      "Sâbirûn: çok sabredenler",
+      "Hammâdûn: Allah'a çok hamd edenler",
+      "Müttakûn: çok sakınanlar",
+      "Sâdıkûn: çok doğru olanlar"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "33",
     "body": "Kitaptaki uçak metaforunda, insanın aklına gelen dört soru sırasıyla Kur'ân'ın dört temel hakikatine karşılık gelmektedir.\n\nAşağıdaki eşleştirmelerden hangisi yanlıştır?",
     "options": [
       "\"Beni buraya kim getirdi?\" → Tevhid hakikati",
@@ -300,7 +396,7 @@
     "sinav": 1
   },
   {
-    "no": "26",
+    "no": "34",
     "body": "Kitapta, haşir hakikati anlatılırken insanın ölümden sonraki varlık yolculuğunun safhaları sıralanmıştır.\n\nAşağıdakilerden hangisi kitapta anlatılan bu safhaların doğru sıralamasıdır?",
     "options": [
       "Ölüm → Mahşer → Berzah → Cennet/Cehennem",
@@ -312,7 +408,7 @@
     "sinav": 1
   },
   {
-    "no": "27",
+    "no": "35",
     "body": "Kitapta, Tolstoy'un hayatın anlamına dair sorularla ilgili önemli bir değerlendirmesi aktarılmıştır. Tolstoy, başlangıçta bu soruları belirli bir şekilde nitelendirmiş, ancak daha sonra bu değerlendirmesini tamamen değiştirmiştir.\n\nTolstoy'un bu sorular hakkındaki değerlendirme değişimi aşağıdakilerden hangisidir?",
     "options": [
       "Önce imkânsız bulmuş, sonra kolay olduğunu anlamıştır",
@@ -324,7 +420,19 @@
     "sinav": 1
   },
   {
-    "no": "28",
+    "no": "36",
+    "body": "Kitapta, dünyanın ahirete oranını gösteren çarpıcı bir hadis aktarılmıştır. Bu hadiste Peygamberimiz bir uzuv ve bir doğa unsuru kullanarak karşılaştırma yapmıştır.\n\nKitaba göre dünyanın ahirete oranı hangi benzetmeyle açıklanmıştır?",
+    "options": [
+      "Bir damla suyun nehre oranı gibi",
+      "Parmağı denize daldırdığında parmağa yapışan su, denize oranla ne kadarsa dünya da ahirete o kadardır",
+      "Bir kum tanesinin çöle oranı gibi",
+      "Bir yaprağın ormana oranı gibi"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "37",
     "body": "Kitapta, kâinatın bir mescide benzetilmesinin ardından, camide namaz kılmayan bir kişinin durumu ile kâinatta ibadet etmeyen insanın durumu arasında bir paralellik kurulmuştur.\n\nBu paralelliğe göre, namaz vaktinde camiye girip köşeye çekilerek dünyevî meşguliyetlerle oyalanan kişi hakkında aşağıdakilerden hangisi söylenmiştir?",
     "options": [
       "Bu kişi, cemaatin dualarından faydalanarak sevap kazanır",
@@ -336,7 +444,7 @@
     "sinav": 1
   },
   {
-    "no": "29",
+    "no": "38",
     "body": "Kitapta Kur'ân-ı Kerîm'in dört temel hakikati anlatılırken, her bir hakikatin kapsamı ve tanımı verilmiştir.\n\nAşağıdakilerden hangisi kitapta verilen bilgilere göre doğrudur?",
     "options": [
       "Tevhid hakikati yalnızca Allah'ın varlığını ve birliğini kabul etmektir",
@@ -348,7 +456,7 @@
     "sinav": 1
   },
   {
-    "no": "30",
+    "no": "39",
     "body": "Kitapta, Tolstoy'un depresyondan çıkış süreci kısaca anlatılmıştır. Buna göre Tolstoy, uzun süren bunalım döneminin ardından belirli bir yolla hayatın anlamına dair sorularına cevap bularak bu hallerden kurtulmuştur.\n\nKitaba göre Tolstoy'un bu bunalımdan kurtuluş yolu aşağıdakilerden hangisidir?",
     "options": [
       "Felsefe alanında yeni bir ekol keşfetmesi",
@@ -360,7 +468,19 @@
     "sinav": 1
   },
   {
-    "no": "31",
+    "no": "40",
+    "body": "Kitapta, cennet nimetleri anlatılırken dünyadaki bazı alanların kullanılamadığı, ancak cennette böyle bir sorunun olmadığı belirtilmiştir.\n\nKitaba göre dünyada kullanılamayan alanlar olarak neler sayılmıştır?",
+    "options": [
+      "Kutuplar, volkanlar ve ormanlar",
+      "Çöller, dağlar ve denizler",
+      "Mağaralar, bataklıklar ve vadiler",
+      "Okyanuslar, buzullar ve çölleşmiş alanlar"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "41",
     "body": "Kitapta şükür kavramı farklı âlimlerin bakış açılarıyla beş ayrı tanım üzerinden ele alınmıştır. Bu tanımlardan biri \"İyilik yapan zâta övgüde bulunmak\", diğeri \"Nimetin karşılığında dil, el veya kalple yapılan karşılık\", bir diğeri \"Allah'a isyanı terk etmek\", bir diğeri ise \"Allah'ın insana maddî veya manevî lütfettiği her nimeti, O'nun rızasına uygun biçimde kullanmak\" şeklinde ifade edilmiştir. Beşinci tanım ise şükrün en derin boyutuna işaret etmektedir.\n\nBuna göre kitaptaki beşinci şükür tanımı aşağıdakilerden hangisidir?",
     "options": [
       "Nimeti başkalarıyla paylaşarak toplumsal dayanışmayı güçlendirmek",
@@ -372,7 +492,7 @@
     "sinav": 1
   },
   {
-    "no": "32",
+    "no": "42",
     "body": "Kitapta şükür kavramının tanımları verilirken, her bir tanımın farklı bir boyuta işaret ettiği belirtilmiştir. Bu tanımlar arasında \"Allah'a isyanı terk etmek\" ve \"Nimetin karşılığında dil, el veya kalple yapılan karşılık\" gibi ifadeler yer almaktadır.\n\nAşağıdakilerden hangisi kitapta yer alan şükür tanımlarından biri değildir?",
     "options": [
       "Nimeti başkalarıyla paylaşarak sosyal adaleti sağlamak",
@@ -384,7 +504,7 @@
     "sinav": 1
   },
   {
-    "no": "33",
+    "no": "43",
     "body": "Kitapta \"Allah'ın insana maddî veya manevî lütfettiği her nimeti, O'nun rızasına uygun biçimde kullanmak\" şeklinde tanımlanan şükür anlayışı somut bir örnekle açıklanmıştır.\n\nBu tanımın kitaptaki somut örneği aşağıdakilerden hangisidir?",
     "options": [
       "Göz nimetini emredilen şeylere yöneltmek, dil nimetini hakikati dile getirmede kullanmak",
@@ -396,7 +516,19 @@
     "sinav": 1
   },
   {
-    "no": "34",
+    "no": "44",
+    "body": "Kitapta, cennete en son girecek kişiye verilecek mülkün miktarı bir hadisle belirtilmiştir. Bu kişi, kendisine söyleneni duyunca şaşırmış ve belirli bir tepki vermiştir.\n\nCennete en son girecek kişiye verilecek yer ve onun tepkisi aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "Dünya kadar yer; 'Bu bana yeter' demiştir",
+      "Dünya kadar ve dünyanın on misli yer; 'Benimle alay mı ediyorsun?' demiştir",
+      "Dünyanın yarısı kadar yer; 'Çok fazla' demiştir",
+      "Bir cennet bahçesi; hiçbir tepki vermemiştir"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "45",
     "body": "Kitapta kâinat, şükür üreten büyük bir fabrikaya benzetilmiş ve bu fabrikanın iç içe geçmiş dairelerden oluştuğu ifade edilmiştir. Her bir daire, bir sonrakinin merkezinde yer alarak hiyerarşik bir yapı oluşturmaktadır. Güneş, bulut, hava, yağmur ve toprak gibi cansız varlıklar ilk daireyi teşkil ederken, bu yapının nihaî amacının şükür olduğu vurgulanmıştır.\n\nBuna göre kitaptaki fabrika benzetmesinde dairelerin doğru sıralanışı aşağıdakilerden hangisidir?",
     "options": [
       "Cansız varlıklar → Hayat → Bitkiler → Hayvanlar ve İnsanlar → Rızık → Şükür",
@@ -408,7 +540,7 @@
     "sinav": 1
   },
   {
-    "no": "35",
+    "no": "46",
     "body": "Kitapta şükretmemenin sonuçları anlatılırken bir otomobil fabrikası benzetmesi yapılmıştır. Fabrikada hammaddeden başlayarak her birim üzerine düşen görevi titizlikle yerine getirmekte, en sonunda mükemmel bir otomobil üretilmektedir. Ancak son birimdeki bir kişi, üretilen otomobilleri balyozla kırmaktadır.\n\nKitaba göre bu benzetmede balyozla otomobilleri kıran kişi neyi temsil etmektedir?",
     "options": [
       "Nimetlere şükretmeyen, böylece tüm varlıkların emeğini boşa çıkaran insanı",
@@ -420,7 +552,7 @@
     "sinav": 1
   },
   {
-    "no": "36",
+    "no": "47",
     "body": "Kitapta, bir ekmek parçasının sofraya gelinceye kadar geçtiği süreç anlatılmış; güneşten, rüzgârdan, buluttan, yağmurdan, tarlada çalışan köylüden fırıncıya kadar pek çok unsurun emeği olduğu ifade edilmiştir. Ardından bu nimetlere şükretmenin en güzel şeklinin ne olduğu belirtilmiştir.\n\nKitaba göre şükrün en güzel şekli aşağıdakilerden hangisidir?",
     "options": [
       "Sadaka vermek",
@@ -432,7 +564,19 @@
     "sinav": 1
   },
   {
-    "no": "37",
+    "no": "48",
+    "body": "Kitapta, namazın insanın halife oluşunu temsil ettiği anlatılırken, insanın namazdaki kıyam, rükû ve secdesiyle hangi varlıkların ibadet şekillerini bir araya getirdiği açıklanmıştır.\n\nKitaba göre mümin namazında hangi varlıkların ibadet şekillerini birleştirir?",
+    "options": [
+      "Meleklerin, cinlerin ve insanların",
+      "Bitkilerin, hayvanların ve meleklerin",
+      "Güneşin, ayın ve yıldızların",
+      "Dağların, nehirlerin ve rüzgârların"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "49",
     "body": "Kitapta İbn Kesîr tefsirinden nakledilen bir kıssada, Hz. İbrahim'e (a.s.) insan kılığında melekler misafir olarak gelmiştir. Hz. İbrahim onlara buzağı kesip pişirerek ikram etmiş, ancak melekler yemeğe dokunmamış ve \"Ey İbrahim! Biz fiyatını ödemediğimiz bir yemeği yemeyiz\" demişlerdir.\n\nKıssaya göre meleklerin \"fiyat\" olarak istedikleri şey aşağıdakilerden hangisidir?",
     "options": [
       "Yemeğin helâl yoldan kazanılmış olması",
@@ -444,7 +588,7 @@
     "sinav": 1
   },
   {
-    "no": "38",
+    "no": "50",
     "body": "Hz. İbrahim'in meleklere ikram ettiği yemek kıssasında, meleklerin Hz. İbrahim'in cevabını duyması üzerine aralarında önemli bir değerlendirme yapılmıştır. Hz. Cebrâil, Hz. Mikâil'e dönerek Hz. İbrahim hakkında bir söz söylemiştir.\n\nHz. Cebrâil'in Hz. Mikâil'e söylediği söz aşağıdakilerden hangisidir?",
     "options": [
       "Bu zât, peygamberlerin en cömerdidir",
@@ -456,7 +600,7 @@
     "sinav": 1
   },
   {
-    "no": "39",
+    "no": "51",
     "body": "Kitapta Hz. İbrahim kıssasının ardından, Allah'ın kullarından beklediği üç şeyin \"Zikir, Şükür ve Fikir\" olduğu belirtilmiş ve bu üçlü kavram yemek yeme örneği üzerinden somutlaştırılmıştır.\n\nBuna göre aşağıdaki eşleştirmelerden hangisi kitaba göre doğrudur?",
     "options": [
       "Bismillah = Şükür, Elhamdülillâh = Zikir, Nimeti düşünmek = Fikir",
@@ -468,7 +612,19 @@
     "sinav": 1
   },
   {
-    "no": "40",
+    "no": "52",
+    "body": "Kitapta, mutasavvıfların insanı kâinatın küçültülmüş şekli olarak kabul ettikleri anlatılmış ve insandaki unsurların kâinattaki karşılıkları sıralanmıştır.\n\nAşağıdaki eşleştirmelerden hangisi kitaba göre yanlıştır?",
+    "options": [
+      "Kemikler: cansız varlıkları temsil eder",
+      "Nefsanî arzular: hayvanları temsil eder",
+      "Güzel hasletler: melekleri temsil eder",
+      "Akıl: peygamberleri temsil eder"
+    ],
+    "answer": "D",
+    "sinav": 1
+  },
+  {
+    "no": "53",
     "body": "Kitapta Zikir-Şükür-Fikir üçlüsü yemek yeme eylemi üzerinden açıklanmış ve her birinin yemeğin farklı bir aşamasına karşılık geldiği ifade edilmiştir.\n\nAşağıdakilerden hangisi bu üçlünün yemek aşamalarıyla eşleştirilmesinde yanlıştır?",
     "options": [
       "Zikir: Yemeğe başlarken \"Bismillah\" demek",
@@ -480,7 +636,7 @@
     "sinav": 1
   },
   {
-    "no": "41",
+    "no": "54",
     "body": "Kitapta İngiliz edebiyatı yazarı Christy Brown'ın hayat hikâyesi anlatılmıştır. Doğuştan beyin felçli olan Brown, belirli bir süre boyunca vücudundaki hiçbir organını kullanamamış, ancak sonra bir organını kullanabildiği keşfedilmiştir. Annesi ona bu organıyla yazı yazmayı ve resim yapmayı öğretmiş, Brown ilkokulda bir yarışmada birinci olmuştur. Ancak uzun süre kadere isyan etmiş ve \"Niçin ben diğer insanlar gibi değilim?\" diye sormuştur.\n\nAşağıdakilerden hangisi kitaptaki Christy Brown hikâyesiyle ilgili yanlış bir bilgidir?",
     "options": [
       "Doğuştan beyin felçli doğmuştur",
@@ -492,7 +648,7 @@
     "sinav": 1
   },
   {
-    "no": "42",
+    "no": "55",
     "body": "Christy Brown, kadere isyan ettiği dönemde bir kasabaya götürülmüş ve orada kendisi gibi hasta ve engelli birçok insanı görmüştür. Brown, bu deneyimi şöyle aktarmıştır: \"Beni asıl şaşırtan, bunca insanın sakat olması değildi. Çoğunun durumu benimkinden daha kötüyüdü.\" Bu deneyim onun hayata bakış açısını kökten değiştirmiştir.\n\nChristy Brown'ın hayata bakışını değiştiren bu kasaba aşağıdakilerden hangisidir?",
     "options": [
       "Fransa'nın Lourdes kasabası",
@@ -504,7 +660,19 @@
     "sinav": 1
   },
   {
-    "no": "43",
+    "no": "56",
+    "body": "Kitapta, modern verimlilik yaklaşımları ile namazın disiplini arasında bir karşılaştırma yapılmıştır. Buna göre modern yaklaşımlar belirli aralıklarla mola verilmesini önerirken, İslam bunu asırlardır sistematik olarak sunmaktadır.\n\nKitaba göre beş vakit namazın her birinin günlük hayattaki işlevi aşağıdakilerden hangisinde yanlış verilmiştir?",
+    "options": [
+      "Sabah: zihinsel uyanış ve tefekkür",
+      "Öğle: günün en yoğun anında duraklama ve denge",
+      "İkindi: günün yorgunluğunu toparlama",
+      "Yatsı: ertesi güne hazırlık ve plan yapma"
+    ],
+    "answer": "D",
+    "sinav": 1
+  },
+  {
+    "no": "57",
     "body": "Kitapta Câbir (r.a.) tarafından nakledilen ve Hz. Cebrâil'den rivayet olunan bir kıssa anlatılmıştır. Buna göre bir kul, denizin ortasındaki bir adada uzun yıllar boyunca ibadet etmiştir. Allah ona her gece tatlı su ve bir nar meyvesi vermiştir — normalde nar yılda bir kez çıkmasına rağmen. Bu kul, secdede iken ruhunun alınmasını istemiş ve duası kabul edilmiştir.\n\nAşağıdakilerden hangisi bu kıssayla ilgili doğru bir bilgidir?",
     "options": [
       "Kul 400 yıl ibadet etmiş ve adanın uzunluğu 3 bin fersakhtır",
@@ -516,7 +684,7 @@
     "sinav": 1
   },
   {
-    "no": "44",
+    "no": "58",
     "body": "500 yıl ibadet eden kulun kıssasında, kıyamet günü Allah meleklere kulun amellerini nimetleriyle karşılaştırmalarını emretmiştir. Bu karşılaştırmada tek bir nimet bile 500 yıllık ibadetin tamamını kuşatmıştır. Kulun diğer nimetleri ise fazladan kalmıştır.\n\nKitaba göre, 500 yıllık ibadeti tek başına kuşatan nimet aşağıdakilerden hangisidir?",
     "options": [
       "Akıl nimeti",
@@ -528,7 +696,7 @@
     "sinav": 1
   },
   {
-    "no": "45",
+    "no": "59",
     "body": "500 yıl ibadet eden kulun kıssasının sonunda dramatik bir sahne yaşanmıştır. Kul önce ameliyle cennete girmek istemiş, ancak amellerinin nimetleri karşılayamadığı ortaya çıkınca Allah \"Kulumu cehenneme atın\" buyurmuştur. Bunun üzerine kul feryat ederek Allah'tan bir talepte bulunmuştur.\n\nKitaba göre kulun bu feryadı ve nihayetinde cennete giriş şekli aşağıdakilerden hangisidir?",
     "options": [
       "\"Ya Rab, amellerimi kabul et\" demiş ve amelleriyle cennete girmiştir",
@@ -540,7 +708,19 @@
     "sinav": 1
   },
   {
-    "no": "46",
+    "no": "60",
+    "body": "Kitapta, nörobilimsel araştırmaların namaz ve ibadet hakkındaki bulguları aktarılmıştır.\n\nKitaba göre düzenli ibadetin etkilediği hormonlar aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "Kortizol yükselir, adrenalin düşer",
+      "Kortizol düşer; serotonin ve dopamin artar",
+      "Testosteron artar, östrojen düşer",
+      "İnsülin dengelenir, tiroksin düşer"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "61",
     "body": "Kitapta nefes alma nimeti detaylı bir şekilde ele alınmış ve bu basit görünen eylemin insana sağladığı faydalar tek tek sayılmıştır. Kitaba göre her bir nefes için ayrı ayrı şükretmek gerekip gerekmeyeceği sorusu bile gündeme getirilmiştir.\n\nAşağıdakilerden hangisi kitapta sayılan nefes almanın üç faydasından biri değildir?",
     "options": [
       "Kanın temizlenmesi (oksijen alınması)",
@@ -549,10 +729,10 @@
       "Bağışıklık sisteminin güçlenmesi"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "47",
+    "no": "62",
     "body": "Kitapta sıhhat ve boş vakit nimeti ele alınırken, Osmanlı'nın en haşmetli padişahı Kanunî Sultan Süleyman'ın meşhur bir şiiri aktarılmıştır. Kanunî, dünya saltanatının zirvesinde olmasına rağmen bu şiirinde gerçek zenginliğin ne olduğunu ifade etmiştir.\n\nAşağıdaki bilgilerden hangisi kitapta Kanunî Sultan Süleyman hakkında verilen bilgilerle uyuşmamaktadır?",
     "options": [
       "Osmanlı'nın en haşmetli padişahıdır",
@@ -561,10 +741,10 @@
       "Meşhur şiirinde sıhhati dünyada en değerli şey olarak nitelemiştir"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "48",
+    "no": "63",
     "body": "Kitapta hastalık acısının bile bir nimet olduğu vurgulanmış ve bunun gerekçesi somut bir hastalık örneği üzerinden açıklanmıştır. Bu hastalığın en tehlikeli olmasının sebebinin, çoğu zaman ağrısız ve sinsice ilerlemesi olduğu belirtilmiştir. Hatta kitapta bir arkadaşın hikâyesi aktarılarak, sol ayağındaki şişliği ağrı olmadığı için yıllarca önemsemeyen ve sonunda ayağını kaybeden birinin durumu anlatılmıştır.\n\nKitapta acının bir nimet olduğunu kanıtlamak için verilen bu hastalık örneği aşağıdakilerden hangisidir?",
     "options": [
       "Diyabet",
@@ -573,10 +753,22 @@
       "Böbrek yetmezliği"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "49",
+    "no": "64",
+    "body": "Kitapta kavanoz metaforu anlatılırken öğretmenin vermek istediği asıl ders ile öğrencilerin çıkardığı ders arasında bir fark olduğu belirtilmiştir.\n\nÖğrencilerin çıkardığı ders ve öğretmenin vermek istediği asıl ders aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "Öğrenciler: 'Her şeyi sığdırabiliriz'; Öğretmen: 'Boşluk bırakmayın'",
+      "Öğrenciler: 'Boş vakit bulunabilir'; Öğretmen: 'En büyüğünden, en önemlisinden başlayın'",
+      "Öğrenciler: 'Küçük şeyler önemlidir'; Öğretmen: 'Büyük şeyler önemlidir'",
+      "Öğrenciler: 'Sabırlı olmalıyız'; Öğretmen: 'Hızlı davranmalıyız'"
+    ],
+    "answer": "B",
+    "sinav": 2
+  },
+  {
+    "no": "65",
     "body": "Kitapta bazı bilim insanlarının \"Medeniyet başparmağın eseridir\" dediği aktarılmış ve bunun gerekçesi açıklanmıştır. Ayrıca yeryüzünde belirli bir elementin bulunmaması hâlinde modern medeniyet seviyesine ulaşılamayacağı ifade edilmiştir.\n\nAşağıdaki ifadelerden hangisi kitaptaki bu anlatımla uyuşmaktadır?\n\nI. Başparmak olmadan nesneleri kavrama ve alet geliştirme mümkün olmazdı.\nII. Arılar Hz. Âdem'den bu yana aynı işi yapar, insanlar ise akıl sayesinde gelişme kaydetmiştir.\nIII. Yeryüzünde bakır elementi olmasaydı modern medeniyet seviyesine ulaşılamazdı.\nIV. İnsan sadece bedenine değil, çevresindeki maddî unsurlara da şükür nazarıyla bakmalıdır.",
     "options": [
       "I, II ve IV",
@@ -585,10 +777,10 @@
       "I, II ve III"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "50",
+    "no": "66",
     "body": "Kitapta Hz. Dâvûd'un (a.s.) şükür kıssası anlatılmıştır. Allah, Hz. Dâvûd'a nimetlerine şükretmesini emretmiş, Hz. Dâvûd ise bir paradoksla karşılaştığını ifade etmiştir: Şükür de bir nimettir ve ona da şükretmek gerekir; dolayısıyla nasıl şükrettiğini bilemediğini söylemiştir.\n\nKitaba göre Allah bu paradoksa nasıl cevap vermiştir?",
     "options": [
       "\"Ey Dâvûd! Sabah akşam namaz kılarak şükretmiş olursun\"",
@@ -597,10 +789,10 @@
       "\"Ey Dâvûd! Bütün bu nimetlerin Benden olduğunu bildiğin şu anda şükretmiş oldun\""
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "51",
+    "no": "67",
     "body": "Kitapta Hz. Mûsâ'nın (a.s.) Tûr Dağı'ndaki şükür kıssası da Hz. Dâvûd kıssasıyla aynı mesajı vermektedir. Hz. Mûsâ, Allah'a \"Sana nasıl şükredebilirim ki, Senin bana verdiğin en küçük nimetin karşılığını bile tüm amelimle ödeyemem\" demiştir.\n\nAllah'ın Hz. Mûsâ'ya verdiği cevap aşağıdakilerden hangisidir?",
     "options": [
       "\"Ey Mûsâ! Sana verdiğim nimetlerin bir kısmını say, gerisi sana bağışlanmıştır\"",
@@ -609,10 +801,22 @@
       "\"Ey Mûsâ! Senin şükrün, ümmetine örnek olmandır\""
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "52",
+    "no": "68",
+    "body": "Kitapta, namaz kılmayan kişinin 'kalbim temiz' demesi psikolojide belirli bir kavramla açıklanmıştır. Bu kavram, kişinin kendi kusurlarını başkalarında görme davranışı olarak tanımlanmaktadır.\n\nKitaba göre bu psikolojik kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "Bastırma",
+      "Yansıtma",
+      "İnkâr",
+      "Rasyonelleştirme"
+    ],
+    "answer": "B",
+    "sinav": 2
+  },
+  {
+    "no": "69",
     "body": "Kitapta Hz. Fâtıma'nın (r.a.) babasına ekmek getirdiği bir rivayet aktarılmıştır. Hz. Peygamber (s.a.v.) bu ekmek parçasını alırken Hz. Fâtıma'ya bir söz söylemiştir. Ayrıca Hz. Âişe'den (r.a.) nakledilen birçok rivayet, Peygamber Efendimiz'in ne denli sade bir hayat sürdüğünü ortaya koymaktadır.\n\nAşağıdakilerden hangisi kitapta aktarılan Hz. Âişe rivayetlerinden biri değildir?",
     "options": [
       "Medine'ye gelişten vefatına kadar Hz. Muhammed'in ailesi üç gün arka arkaya buğday ekmeğinden doymadı",
@@ -621,10 +825,10 @@
       "\"Ne yerdiniz?\" sorusuna \"Hurma ile su\" cevabı verilmiştir"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "53",
+    "no": "70",
     "body": "Kitapta Hz. Peygamber'in (s.a.v.) hayat şartları anlatılırken, Hz. Fâtıma'nın (r.a.) babasına ekmek getirdiği rivayet aktarılmıştır. Hz. Peygamber bu ekmek parçasını alırken kızına söylediği söz, O'nun ne denli sade yaşadığını gözler önüne sermektedir.\n\nHz. Peygamber'in Hz. Fâtıma'ya söylediği söz aşağıdakilerden hangisidir?",
     "options": [
       "\"Üç günden beri babanın ağzına giren ilk yiyecek budur\"",
@@ -633,10 +837,10 @@
       "\"Bu bir lokma ekmek, cennet nimetlerinden daha kıymetlidir\""
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "54",
+    "no": "71",
     "body": "Kitapta kıyamet günü kulun hesaba çekileceği dört temel alan sayılmıştır. Bu dört alandan sorgulanmadıkça kulun ayaklarının kımıldamayacağı belirtilmiştir. Bu hadis, insanın dünya hayatında nelerin hesabını vereceğini somut bir şekilde ortaya koymaktadır.\n\nAşağıdakilerden hangisi kitapta sayılan bu dört sorgulanma alanından biri değildir?",
     "options": [
       "Ömründen",
@@ -645,10 +849,22 @@
       "İbadetlerinden"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "55",
+    "no": "72",
+    "body": "Kitapta, Dr. Laurence Brown'un kızının hastalığı ve mucizevî iyileşmesi anlatılmıştır.\n\nAşağıdakilerden hangisi kitapta Brown'un hikayesinde yer alan bilgilerden biri değildir?",
+    "options": [
+      "Kızı aort koarktasyonu denilen bir hastalıkla doğmuştur",
+      "Brown bir göz doktoruydu ve ateistti",
+      "Yogun bakımdan ayrılışı sadece 15 dakika sürmüştür",
+      "Brown'un kızı ameliyatla iyileşmiştir"
+    ],
+    "answer": "D",
+    "sinav": 2
+  },
+  {
+    "no": "73",
     "body": "Kitapta kıyamette sorgulanacak dört alan belirtildikten sonra, Enes (r.a.) tarafından nakledilen bir rivayette fakir bir adam Peygamberimize \"Benim üzerimde nimetten bir şey var mı?\" diye sormuştur. Peygamberimiz, herkesin sahip olduğu ama çoğunun farkında olmadığı nimetleri saymıştır.\n\nAşağıdakilerden hangisi Peygamberimiz'in bu rivayette saydığı nimetlerden biri değildir?",
     "options": [
       "Gölge",
@@ -657,10 +873,10 @@
       "Soğuk su"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "56",
+    "no": "74",
     "body": "Kitapta namazın İslâm'ın beş şartının ve bütün ibadetlerin en mühimi olduğu belirtilmiş ve namazın üç temel boyutu açıklanmıştır. İnsanın fakirliği, acizliği ve hatalı oluşu bu üç boyutun temelini oluşturmakta ve her birine karşılık gelen çekirdek kelimeler verilmektedir.\n\nAşağıdaki eşleştirmelerden hangisi kitaba göre doğrudur?",
     "options": [
       "İnsanın fakirliği → Sübhânallah, İnsanın acizliği → Elhamdülillâh, İnsanın hatalı oluşu → Allahu ekber",
@@ -669,10 +885,10 @@
       "İnsanın fakirliği → Elhamdülillâh, İnsanın acizliği → Allahu ekber, İnsanın hatalı oluşu → Sübhânallah"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "57",
+    "no": "75",
     "body": "Kitapta namazın çekirdek kelimeleri olan \"Sübhânallah, Elhamdülillâh ve Allahu ekber\"in her birinin anlamı ayrı ayrı verilmiştir. Bu üç kelime, namazın özünü ve insanın Allah karşısındaki konumunu ifade etmektedir.\n\nAşağıdakilerden hangisi bu üç kelimenin anlamlarıyla ilgili yanlış bir eşleştirmedir?",
     "options": [
       "Elhamdülillâh: Bütün övgüler ve şükürler Allah'a aittir",
@@ -681,10 +897,22 @@
       "Sübhânallah: Allah'ın rahmeti her şeyi kuşatmıştır"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "58",
+    "no": "76",
+    "body": "Kitapta, tüccar ve hırsız kıssasında tüccarın abdest alıp namaz kıldıktan sonra belirli bir duayı üç kez tekrar ettiği anlatılmıştır.\n\nKitaba göre tüccarın bu duada kullandığı Allah'ın ismi ve kıldığı namaz aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "Ya Rahmân; iki rekât",
+      "Ya Kerîm; altı rekât",
+      "Ya Vedûd; dört rekât",
+      "Ya Settâr; sekiz rekât"
+    ],
+    "answer": "C",
+    "sinav": 2
+  },
+  {
+    "no": "77",
     "body": "Kitapta namazın insanın halifeliğini temsil ettiği anlatılırken, bütün varlıkların ya kıyamda, ya rükûda, ya da secdede olduğu ifade edilmiştir. Hayvanlar, bitkiler ve meleklerin namazdaki hallere nasıl karşılık geldiği bir tablo hâlinde sunulmuştur.\n\nAşağıdaki eşleştirmelerden hangisi kitaba göre yanlıştır?",
     "options": [
       "İki ayaklı hayvanlar → Kıyam",
@@ -693,10 +921,10 @@
       "Kavak ağacı gibi dimdik duran bitkiler → Kıyam"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "59",
+    "no": "78",
     "body": "Kitapta varlıkların kıyam, rükû ve secde halleriyle ilgili anlatımın devamında, meleklerin durumu da ele alınmıştır. Ayrıca mutasavvıfların insanı \"kâinatın küçültülmüş şekli\" (misâl-i musağğar) olarak tanımladığı ifade edilmiş ve insandaki unsurların kâinattaki varlıklara nasıl karşılık geldiği açıklanmıştır.\n\nAşağıdakilerden hangisi bu karşılık tablosunda kitapta yer almamıştır?",
     "options": [
       "Kemikler → Cansız varlıklar",
@@ -705,10 +933,10 @@
       "Güzel hasletler → Melekler"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "60",
+    "no": "79",
     "body": "Kitapta Hasan-ı Basrî'nin Fâtiha sûresi hakkındaki görüşü nakledilmiştir. Bu görüşe göre Allah indirdiği kitapların ilmini aşamalı olarak küçültmüş ve nihayetinde Fâtiha sûresine yerleştirmiştir.\n\nAşağıdakilerden hangisi Hasan-ı Basrî'nin bu sözündeki bilgilerle uyuşmaktadır?\n\nI. Allah 104 kitap indirmiştir.\nII. Bu kitapların ilmini 4 kitaba yerleştirmiştir.\nIII. 4 kitabın ilmini Kur'ân'ın büyük sûrelerine yerleştirmiştir.\nIV. Fâtiha'nın tefsirini bilen, 114 sûrenin tamamını ezberlemiş gibidir.",
     "options": [
       "I, II, III ve IV",
@@ -717,10 +945,22 @@
       "I, III ve IV"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "61",
+    "no": "80",
+    "body": "Kitapta, Christy Brown'un hayat hikayesi anlatılırken onun belirli bir ülkenin belirli bir kasabasında büyük bir sarsıntı yaşadığı aktarılmıştır.\n\nChristy Brown'un hasta ve engelli insanları görerek derinden sarsıldığı yer aşağıdakilerden hangisidir?",
+    "options": [
+      "İngiltere'nin Londra şehri",
+      "İrlanda'nın Dublin şehri",
+      "Fransa'nın Lordes kasabası",
+      "İtalya'nın Roma şehri"
+    ],
+    "answer": "C",
+    "sinav": 2
+  },
+  {
+    "no": "81",
     "body": "Kitapta bir öğretmenin sınıfa kavanoz, büyük taşlar, küçük çakıl taşları, kum ve su getirdiği bir hikâye anlatılmıştır. Öğretmen önce büyük taşları kavanoza koymuş, ardından çakılı, kumu ve suyu eklemiştir. Hikâyenin sonunda öğretmen öğrencilerine önemli bir ders vermiştir.\n\nKitaba göre bu hikâyedeki büyük taşlar neyi temsil etmektedir?",
     "options": [
       "Aile ve sevdiklerimiz",
@@ -729,10 +969,10 @@
       "Rızık arayışı"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "62",
+    "no": "82",
     "body": "Kavanoz hikâyesinin devamında kitap şu mesajı vermektedir: \"Her gün bir kavanoz gibidir.\" Öğretmenin dersi ise hayatta neyin öncelikli olması gerektiğine dairdir.\n\nKitaba göre öğretmenin sınıfa verdiği ders aşağıdakilerden hangisidir?",
     "options": [
       "\"Hayatta her şeye eşit zaman ayırmalısınız\"",
@@ -741,10 +981,10 @@
       "\"Her işi planlı yaparsanız hiçbir şey eksik kalmaz\""
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "63",
+    "no": "83",
     "body": "Kitapta \"Namaz kılmıyorum ama kalbim temiz\" ifadesinin psikolojik arka planı detaylı bir şekilde analiz edilmiştir. Namaz kılan ve kılmayan iki kişi bir araya geldiğinde psikolojik dengenin bozulduğu ve namaz kılmayan kişinin içsel huzursuzluk yaşadığı ifade edilmiştir. Bu huzursuzluğu bastırmak için kişi savunma mekanizmalarına başvurmaktadır.\n\nKitaba göre, \"kalbim temiz\" söyleminin ve dindarlara hücum etmenin temelindeki psikolojik mekanizma aşağıdakilerden hangisidir?",
     "options": [
       "Bastırma (represyon) mekanizması",
@@ -753,10 +993,22 @@
       "İnkâr mekanizması"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "64",
+    "no": "84",
+    "body": "Kitapta, ezan öncesi namaza davet yöntemi aranırken Hz. Ömer'in önerisi kabul edilmiş ve belirli bir kişi bu görevle görevlendirilmiştir.\n\nKitaba göre Hz. Ömer'in önerisi ve görevlendirilen kişi aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "Mescide bayrak dikilmesi; Hz. Ali",
+      "Sokaklarda dolaşarak seslenmesi; Bilal",
+      "Mescidde çan çalınması; Abdullah b. Zeyd",
+      "Her evden bir temsilci gönderilmesi; Ebu Hureyre"
+    ],
+    "answer": "B",
+    "sinav": 2
+  },
+  {
+    "no": "85",
     "body": "Kitapta \"kalbim temiz\" iddiasının cevabı verilirken, Allah'ın insana her gün verdiği sermaye ile ibadete ayırması gereken zaman arasındaki orantısızlık bir benzetmeyle açıklanmıştır. Bu benzetmede büyük bir rakam kullanılmış ve insanın bu rakamın çok küçük bir kısmını bile ibadete ayırmamasının ne denli akıl dışı olduğu vurgulanmıştır.\n\nKitaptaki bu benzetmede kullanılan rakam ve mesaj aşağıdakilerden hangisidir?",
     "options": [
       "Allah her gün 24 trilyon nefes verir, sadece 1 saatini ibadete ayırmamak büyük kayıptır",
@@ -765,10 +1017,10 @@
       "İnsanın günde 24 milyon hücre yenilenmesi bile başlı başına şükür gerektiren bir nimettir"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "65",
+    "no": "86",
     "body": "Kitapta Amerikalı göz doktoru Dr. Laurence Brown'ın hikâyesi anlatılmıştır. Protestan bir ailede yetişen Brown, ateist olmuş ve hayatında hiç dua etmemiştir. Ancak kızının ölümcül bir hastalıkla doğması, hayatını kökten değiştirmiştir. Brown hayatında ilk kez dua etmiş ve Allah'a bir söz vermiştir.\n\nAşağıdaki bilgilerden hangisi kitaptaki Dr. Laurence Brown hikâyesiyle ilgili yanlıştır?",
     "options": [
       "Kızı aort koarktasyonu hastalığıyla doğmuştur",
@@ -777,10 +1029,10 @@
       "Protestan bir ailede yetişmiştir"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "66",
+    "no": "87",
     "body": "Dr. Laurence Brown duasının ardından yoğun bakıma döndüğünde kızının tamamen iyileştiğini görmüştür. Ultrason kalp filmleri önceki filmde hastalığı, sonraki filmde tamamen normal kalbi göstermiştir. Doktorlar bu duruma açıklama yapamamıştır. Brown, sözünü tutmak için dinî arayışa girmiş ve farklı dinleri araştırmıştır.\n\nDr. Laurence Brown'ın dinî arayışıyla ilgili aşağıdakilerden hangisi kitapta anlatılmamıştır?",
     "options": [
       "Önce Yahudiliği araştırmıştır",
@@ -789,10 +1041,22 @@
       "Tüm sorularına cevabı İslâm'da bulmuştur"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "67",
+    "no": "88",
+    "body": "Kitapta, ezanın rüyayla belirlenmesi anlatılırken, bu rüyayı gören sahâbîye tarihte verilen özel bir unvan belirtilmiştir.\n\nKitaba göre Abdullah b. Zeyd'in tarihte anıldığı unvan aşağıdakilerden hangisidir?",
+    "options": [
+      "Sâhibü'l-mescid",
+      "Sâhibü'l-ezân",
+      "Sâhibü'l-kıble",
+      "Sâhibü'l-kamet"
+    ],
+    "answer": "B",
+    "sinav": 2
+  },
+  {
+    "no": "89",
     "body": "Kitapta dünya ile cennet arasındaki fark anlatılırken, Hz. Peygamber'in (s.a.v.) bir hadisi ve ardından bir akvaryum metaforu kullanılmıştır. Hadiste dünyanın âhirete oranı çarpıcı bir benzetmeyle ifade edilmiştir. Akvaryum metaforunda ise dünyanın darlığı somutlaştırılmıştır.\n\nAşağıdakilerden hangisi bu konudaki hadis ve metaforla ilgili doğru bir bilgidir?\n\nI. Hadiste dünyanın âhirete oranı, parmağın denizden çıkardığı su kadardır.\nII. Akvaryum metaforunda yarım metrelik akvaryumda 500 cm'lik balık örneği verilmiştir.\nIII. Hadiste dünyanın âhiretin yüzde biri kadar olduğu ifade edilmiştir.\nIV. Akvaryum metaforuyla insanın dünyadaki sınırlılığı anlatılmıştır.",
     "options": [
       "I, II ve IV",
@@ -801,10 +1065,10 @@
       "I, III ve IV"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "68",
+    "no": "90",
     "body": "Kitapta cennetlikler ve cehennemlikler yerleştikten sonra ölümün koç suretinde getirilerek boğazlanacağı hadisi nakledilmiştir. Bu olayın ardından cennet ehline ve cehennem ehline ayrı ayrı seslenilmiştir.\n\nAşağıdakilerden hangisi bu hadisle ilgili yanlış bir bilgidir?",
     "options": [
       "Cehennem ehli bu haberi duyunca sevinçten ölecektir",
@@ -813,10 +1077,10 @@
       "Ölüm koç suretinde getirilip boğazlanacaktır"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "69",
+    "no": "91",
     "body": "Kitapta öldükten sonra dirilmenin beş ayrı delili sayılmıştır. Bu delillerden her biri, farklı bir açıdan haşri ispat etmektedir. Delillerden biri insanın fıtratına yerleştirilen ebedî yaşama arzusuyla, diğeri her hükümetin itaat edene mükâfat ve isyan edene ceza vermesiyle, bir diğeri ise her gece uykuya dalıp sabah uyanma gibi günlük gözlemlerle ilgilidir.\n\nAşağıdakilerden hangisi kitapta sayılan beş haşir delilinden biri değildir?",
     "options": [
       "Fıtrat delili",
@@ -825,10 +1089,22 @@
       "Bahar delili"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "70",
+    "no": "92",
+    "body": "Kitapta, sabah ezanında diğer ezanlardan farklı olarak eklenen bir cümle bulunduğu ve ezan dinlerken bu cümleye karşılık söylenmesi gereken ifade belirtilmiştir.\n\nKitaba göre sabah ezanındaki ilave cümleye karşılık söylenmesi gereken ifade aşağıdakilerden hangisidir?",
+    "options": [
+      "Lâ havle velâ kuvvete illâ billâh",
+      "Sübhânallah",
+      "Sadakte ve berirte (Doğru ve haklı söyledin)",
+      "Âmin"
+    ],
+    "answer": "C",
+    "sinav": 2
+  },
+  {
+    "no": "93",
     "body": "Kitapta öldükten sonra dirilmenin delilleri arasında \"Diriliş örnekleri delili\" ve \"Bahar delili\" ayrı ayrı ele alınmıştır. Her ikisi de tabiattaki gözlemlerden yola çıkmaktadır.\n\nAşağıdakilerden hangisi \"Diriliş örnekleri delili\"nin kitaptaki açıklamalarından biridir?\n\nI. Her gece uyku = ölüm, sabah uyanma = diriliş\nII. Kış = ölüm, bahar = diriliş\nIII. Her yüzyılda nesil değişimi\nIV. Tohumun toprağa düşüp çiçek açması",
     "options": [
       "I, II ve III",
@@ -837,10 +1113,10 @@
       "II, III ve IV"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "71",
+    "no": "94",
     "body": "Kitapta zamanla ilgili temel bir ayrım yapılmıştır. Buna göre insan üzerinde baskı kuran ve peşinden koşulan bir kavram yerine, tanzim edilen, planlanan ve kendisine hâkim olunan bir kavram esas alınmalıdır. Kur'ân-ı Kerîm de bu ikinci kavramı daha çok kullanmaktadır.\n\nKitaba göre bu iki kavram aşağıdakilerden hangisidir?",
     "options": [
       "Geçmiş ve gelecek",
@@ -849,10 +1125,10 @@
       "Ömür ve ecel"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "72",
+    "no": "95",
     "body": "Kitapta, insanın zamanla olan ilişkisi tarihsel bir perspektifle ele alınmıştır. Buna göre bazı topluluklar zamanın gücüne öylesine boyun eğmişlerdir ki, zamanı ilah edinme noktasına varmışlardır. Kitapta bu durumun, aslında başka bir imtihanı kaybetmek olduğu ifade edilmiştir.\n\nKitaba göre zamanı ilah edinenlerin kaybettiği imtihan aşağıdakilerden hangisidir?",
     "options": [
       "Zamanın yaratıcısı ve mutlak sahibini tanıma imtihanı",
@@ -861,10 +1137,22 @@
       "Ölüme hazırlık imtihanı"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "73",
+    "no": "96",
+    "body": "Kitapta, Peygamberimizin Medine'ye geldiğinde daha devesinden inmeden yaptığı ilk iş anlatılmıştır.\n\nKitaba göre bu ilk iş aşağıdakilerden hangisidir?",
+    "options": [
+      "Ezan okutmak",
+      "Hutbe vermek",
+      "Namazların topluca kılınacağı bir mescidin yerini tespit etmek",
+      "Hicret edenleri karşılamak"
+    ],
+    "answer": "C",
+    "sinav": 2
+  },
+  {
+    "no": "97",
     "body": "Kitapta, zamanın izafiliği anlatılırken günümüze dek ulaşan muvakkithane levhalarından birinde yer alan bir beyit aktarılmıştır. Bu beyitte, gecenin uzunluğunu gerçekten bilenin müneccim veya muvakkit değil, başka birisi olduğu ifade edilmektedir.\n\nBu beyite göre gecenin ne kadar sürdüğünü gerçekten bilen kişi aşağıdakilerden hangisidir?",
     "options": [
       "Gece ibadet eden zahid",
@@ -873,10 +1161,10 @@
       "Dertli ve gamlı olan kişi"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "74",
+    "no": "98",
     "body": "Kitapta namaz, insanı özgürleştiren bir ibadet olarak tanımlanmış ve bu özgürleştirmenin iki yönü açıklanmıştır.\n\nI. Namazda boyun eğilen sadece yüce Allah'tır; başka hiç kimsenin onay ve beğenisinin anlam ve değeri yoktur.\nII. Namaz, mutlak zamanın hâkimiyetinden insanı kurtarır.\nIII. Namaz, insanı toplumsal baskılardan ve kültürel normlardan özgürleştirir.\nIV. Namaz, uykuya, eğlenceye, işe ve dünyaya ait olan her şeye ara veriştir.\n\nKitaba göre namazın özgürleştirici yönleri arasında yukarıdakilerden hangileri yer alır?",
     "options": [
       "I, II ve IV",
@@ -885,10 +1173,10 @@
       "I, II, III ve IV"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "75",
+    "no": "99",
     "body": "Kitapta namazın rükünlerinin manevi anlamları detaylı bir şekilde açıklanmıştır. Buna göre her bir rükün, insanın farklı bir halini ve kulluk boyutunu temsil etmektedir.\n\nAşağıdakilerden hangisi kitaptaki rükün-anlam eşleştirmelerinden biri değildir?",
     "options": [
       "Kıyam, kararlılığın izharıdır",
@@ -897,10 +1185,22 @@
       "Kıraat, günahlardan arınmanın ifadesidir"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "76",
+    "no": "100",
+    "body": "Kitapta, Hasan-ı Basrî'nin cemaatle namaz konusundaki fetvası aktarılmıştır. Bu fetvaya göre annenin şefkatinden dolayı oğlunu yatsı namazına göndermemesi durumunda bile belirli bir tercih yapılmalıdır.\n\nKitaba göre bu durumda yapılması gereken aşağıdakilerden hangisidir?",
+    "options": [
+      "Anneye itaat edip evde kılmalı",
+      "Anneye bu konuda itaat etmeyip cemaatle kılmalı",
+      "Anneyi de cemaate götürmeli",
+      "Öğle namazına kadar beklemeli"
+    ],
+    "answer": "B",
+    "sinav": 2
+  },
+  {
+    "no": "101",
     "body": "Kitapta secde hakkında çarpıcı bir ifade kullanılmıştır. Buna göre insanın en değerli uzvunu yere koyması, paradoksal bir biçimde tam tersi bir anlam taşımaktadır.\n\nKitaba göre insanın yüzünü yere koyması aşağıdakilerden hangisini ifade eder?",
     "options": [
       "Günahların affedilmesini",
@@ -909,10 +1209,10 @@
       "Kulluğun ayağa kalkışını"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "77",
+    "no": "102",
     "body": "Kitapta, namazın zamana hükmetme gücü anlatılırken bir edebiyatçının sözüne atıfta bulunulmuştur. Bu edebiyatçıya göre Müslümanın günü belirli doğal olaylarla başlamalı ve bitmelidir.\n\nKitapta aktarılan bu görüşe göre Müslümanın gününün başlangıcını ve sonunu belirleyen unsurlar aşağıdakilerden hangisidir?",
     "options": [
       "Sabah ezanı ve yatsı ezanı",
@@ -921,10 +1221,10 @@
       "Fecrin ağarması ve gecenin karanlığı"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "78",
+    "no": "103",
     "body": "Kitapta, namaz vakitlerinin tespiti için geçmişte inşa edilen küçük yapıların zamanla işlevini yitirdiği anlatılmıştır. Bu yapıların yerini mekanik saatler almış ve saatler namaz vakitlerini hatırlatmaktan çok, zamanı takip etme aracına dönüşmüştür.\n\nKitapta sözü edilen bu küçük yapılar aşağıdakilerden hangisidir?",
     "options": [
       "Muvakkithaneler",
@@ -933,10 +1233,22 @@
       "Külliyeler"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "79",
+    "no": "104",
+    "body": "Kitapta, üç özel mescid dışındaki camilerin birbirine göre değeri hakkında bilgi verilmiştir.\n\nKitaba göre Mescid-i Haram, Mescid-i Nebevî ve Mescid-i Aksa dışındaki camiler için aşağıdakilerden hangisi söylenmiştir?",
+    "options": [
+      "Büyük camiler küçüklerden daha değerlidir",
+      "Tarihi camiler yeni camilerden üstündür",
+      "Değer açısından birbirinden farkı yoktur",
+      "Başkent camileri diğerlerinden faziletlidir"
+    ],
+    "answer": "C",
+    "sinav": 2
+  },
+  {
+    "no": "105",
     "body": "Kitapta Kur'ân-ı Kerîm'in namazla ilgili kullandığı dil hakkında önemli bir tespit yapılmıştır. Buna göre Kur'ân, namazdan bahsederken belirli bir fiili hiç kullanmamakta, bunun yerine başka bir fiili tercih etmektedir.\n\nKitaba göre Kur'ân'ın namaz için kullandığı fiil aşağıdakilerden hangisidir?",
     "options": [
       "Namaz kılmak",
@@ -945,10 +1257,10 @@
       "Namazı eda etmek"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "80",
+    "no": "106",
     "body": "Kitapta namazın idrak edilmesi, yani hakikatinin anlaşılması için yapılması gereken üç eylem sıralanmıştır: doğrultmak, oturtmak ve tatbik sahasına koymak. Bu üç eylem tek bir kavramla ifade edilmiştir.\n\nBu kavram aşağıdakilerden hangisidir?",
     "options": [
       "Huşu",
@@ -957,10 +1269,10 @@
       "İhsan"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "81",
+    "no": "107",
     "body": "Kitapta, Kur'ân-ı Kerîm'in namazın tamamen bırakılmasından değil, başka bir durumdan bahsettiği vurgulanmıştır. Buna göre namazdan sonra gelen bir nesil, namazı tamamen terk etmek yerine farklı bir şekilde ihmal etmiştir.\n\nKitaba göre Kur'ân'ın eleştirdiği bu durum aşağıdakilerden hangisidir?",
     "options": [
       "Namazı geciktirmek",
@@ -969,10 +1281,22 @@
       "Namazı yalnız kılmak"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "82",
+    "no": "108",
+    "body": "Kitapta, gençlerin yaş ağaca benzetilmesi yapılmıştır.\n\nKitaba göre bu benzetmenin anlamı aşağıdakilerden hangisidir?",
+    "options": [
+      "Gençler güçlü ve dayanıklıdır",
+      "Gençlere istenilen şekil verilebilir, onlar telkinlere açıktır",
+      "Gençler meyve vermeye hazırdır",
+      "Gençler kökleri sağlam olanlardır"
+    ],
+    "answer": "B",
+    "sinav": 2
+  },
+  {
+    "no": "109",
     "body": "Kitapta, zamanın akışı karşısında insanın hüsrandan kurtulması için dört şartın bir arada olması gerektiği belirtilmiştir.\n\nAşağıdakilerden hangisi bu dört şarttan biri değildir?",
     "options": [
       "İman",
@@ -981,10 +1305,10 @@
       "Cemaatle namaz"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "83",
+    "no": "110",
     "body": "Kitapta ezan kavramı hem sözlük hem de dinî terim olarak tanımlanmıştır. Ayrıca ezanın İslam medeniyetindeki yeri çeşitli alanlarda ifade edilmiştir.\n\nAşağıdakilerden hangisi kitapta ezanın tanımında veya nitelemesinde yer alan bir ifade değildir?",
     "options": [
       "Nassla belirlenen özel sözlerden ibaret olan kutsal çağrı",
@@ -993,10 +1317,10 @@
       "İbadet hayatından edebiyata, mimariden kültüre kadar önemli bir yere sahip"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "84",
+    "no": "111",
     "body": "Kitapta, namaza davet yöntemi aranırken çeşitli teklifler yapıldığı anlatılmıştır. Peygamberimiz bu teklifleri belirli bir gerekçeyle reddetmiştir.\n\nI. Çan çalınması\nII. Boru gibi ses çıkaran bir alet kullanılması\nIII. Ateş yakılarak haberleşilmesi\nIV. Mescidin damına bayrak dikilmesi\n\nYukarıdakilerden hangileri kitapta namaza davet için teklif edilen yöntemler arasında yer alır?",
     "options": [
       "Yalnız I, II ve III",
@@ -1005,10 +1329,22 @@
       "Yalnız I, II ve IV"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "85",
+    "no": "112",
+    "body": "Kitapta, çocuğun doğduğunda sağ kulağına ve sol kulağına okunması tavsiye edilen iki farklı çağrı belirtilmiştir.\n\nKitaba göre doğan çocuğun sağ ve sol kulağına sırasıyla ne okunmalıdır?",
+    "options": [
+      "İki kulağına da ezan",
+      "Sağ kulağına Fatiha, sol kulağına İhlas",
+      "Sağ kulağına ezan, sol kulağına kamet",
+      "Sağ kulağına Besmele, sol kulağına Kelime-i Tevhid"
+    ],
+    "answer": "C",
+    "sinav": 2
+  },
+  {
+    "no": "113",
     "body": "Kitapta, Abdullah b. Zeyd'in rüyası detaylı bir şekilde anlatılmıştır. Bu rüyada belirli özelliklere sahip bir kişi gelmiş ve Abdullah'a ezanı öğretmiştir.\n\nAşağıdakilerden hangisi rüyadaki kişi hakkında kitapta verilen bilgilerden biri değildir?",
     "options": [
       "Üzerinde yeşil elbise bulunması",
@@ -1017,10 +1353,10 @@
       "Kendisini Cebrail olarak tanıtması"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "86",
+    "no": "114",
     "body": "Kitapta, Peygamberimizin Abdullah b. Zeyd'in rüyasını dinledikten sonra ezanı okuması için belirli bir kişiyi görevlendirdiği anlatılmıştır. Peygamberimiz bu tercihin sebebini de açıklamıştır.\n\nPeygamberimizin ezanı okutmak için Bilal'i seçmesinin kitapta belirtilen sebebi aşağıdakilerden hangisidir?",
     "options": [
       "Bilal'in sesinin Abdullah'ınkinden daha gür ve güzel olması",
@@ -1029,10 +1365,10 @@
       "Bilal'in rüyada bu görevle işaret edilmiş olması"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "87",
+    "no": "115",
     "body": "Kitapta, İblisin isyana sevkeden temel özelliği ve bu özelliğin sonuçları anlatılmıştır. İblis, bu özelliği yüzünden Allah'ın secde emrine karşı gelmiş, üstelik geri dönüş imkânı varken bunu da değerlendirememiştir.\n\nKitaba göre İblisi hem isyana sevkeden hem de tevbe etmesine engel olan temel özellik aşağıdakilerden hangisidir?",
     "options": [
       "Cehalet",
@@ -1041,10 +1377,22 @@
       "Hırs"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "88",
+    "no": "116",
+    "body": "Kitapta, iki namaz arasında insanda meydana gelen dört olumsuz hal sıralanmıştır. Her namaz, bu olumsuz hallerin giderilmesi için bir tövbe niteliğindedir.\n\nAşağıdakilerden hangisi bu dört olumsuz halden biri değildir?",
+    "options": [
+      "Gaflet",
+      "Kalp katılaşması",
+      "Kaymalar ve hatalar",
+      "Şirk ve inkâr"
+    ],
+    "answer": "D",
+    "sinav": 2
+  },
+  {
+    "no": "117",
     "body": "Kitapta Hz. Yusuf'un nefsine karşı tutumu anlatılmış ve onun günahtan korunmasının temel sebebi açıklanmıştır. Buna göre Hz. Yusuf, nefsin belirli bir özelliğini bildiği için İblisin düştüğü tuzaktan kurtulabilmiştir.\n\nKitaba göre Hz. Yusuf'u günahtan koruyan temel bilgi aşağıdakilerden hangisidir?",
     "options": [
       "Peygamber olduğu için günahtan korunduğunu bilmesi",
@@ -1053,10 +1401,10 @@
       "Günahın ahiretteki cezasının ağırlığını bilmesi"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "89",
+    "no": "118",
     "body": "Kitapta Hz. Yunus'un balığın karnındaki münacatı aktarılmıştır. Bu münacatta Hz. Yunus, tesbih ve tenzihle birlikte kendi durumunu da itiraf etmiştir.\n\nHz. Yunus'un münacatındaki temel mesaj aşağıdakilerden hangisidir?",
     "options": [
       "Allah'tan düşmanlarına karşı yardım istemesi",
@@ -1065,10 +1413,10 @@
       "Kusurdan münezzeh olanın kendisi değil Allah olduğunu ikrar etmesi"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "90",
+    "no": "119",
     "body": "Kitapta, namazda söylenen 'Allâh-u Ekber' ifadesinin tekrar sayıları verilmiştir.\n\nKitaba göre iki rekâtlık bir namazda ve dört rekâtlık bir namazda 'Allâh-u Ekber' sırasıyla kaç defa söylenir?",
     "options": [
       "11 ve 22",
@@ -1077,10 +1425,22 @@
       "12 ve 24"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 2
   },
   {
-    "no": "91",
+    "no": "120",
+    "body": "Kitapta, namazın fiillerinin her birinin insanı farklı bir olumsuzluktan kurtardığı belirtilmiştir.\n\nKitaba göre 'selam vermek' insanı aşağıdakilerden hangisinden kurtarır?",
+    "options": [
+      "Gafletten",
+      "Kibirden",
+      "Kalp katılığından",
+      "En büyük tehlikeden"
+    ],
+    "answer": "D",
+    "sinav": 2
+  },
+  {
+    "no": "121",
     "body": "Kitapta, Hz. Şuayb'ın kavmi Medyen halkının namazla ilgili bir itirazı aktarılmıştır. Bu itiraz, namazın sadece bireysel bir ibadet olmadığını, hayatın her alanını kuşatan bir boyutu olduğunu göstermektedir.\n\nMedyen halkının Hz. Şuayb'a yönelik itirazı aşağıdakilerden hangisidir?",
     "options": [
       "Namazın çok vakit aldığını söylemeleri",
@@ -1089,10 +1449,10 @@
       "Namazın kadınlara farz olmaması gerektiğini ileri sürmeleri"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "92",
+    "no": "122",
     "body": "Kitapta, cemaatle kılınan namazın tek başına kılınan namazdan daha faziletli olduğu hadisle belirtilmiştir.\n\nKitaba göre cemaatle kılınan namazın tek başına kılınan namaza göre fazilet derecesi aşağıdakilerden hangisidir?",
     "options": [
       "Yirmi beş veya yirmi yedi derece",
@@ -1101,10 +1461,10 @@
       "Yetmiş derece"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "93",
+    "no": "123",
     "body": "Kitapta, gözleri görmeyen sahâbî İbn Ümmü Mektum'un Peygamberimize başvurup evde namaz kılma izni istediği anlatılmıştır. İbn Ümmü Mektum çeşitli mazeretler ileri sürmüştür.\n\nAşağıdakilerden hangisi kitaba göre Peygamberimizin bu duruma verdiği cevaptır?",
     "options": [
       "Görmeyenler için özel bir ruhsat tanımıştır",
@@ -1113,10 +1473,22 @@
       "Ezanın 'haydi namaza, haydi felaha' ifadelerini duyduğu sürece ruhsat bulunmadığını söylemiştir"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "94",
+    "no": "124",
+    "body": "Kitapta, namazın parlak ve karanlık olarak iki farklı halde Allah'a yükselmesi tasvir edilmiştir. Kötü kılınan namaz sahibine dönerek bir söz söylemekte ve sonra belirli bir muameleye tabi tutulmaktadır.\n\nKötü kılınan namaz nasıl bir muameleye tabi tutulur?",
+    "options": [
+      "Yeniden kılınması için geri gönderilir",
+      "Eski bir elbise gibi dürülerek sahibinin yüzüne fırlatılır",
+      "Melekler tarafından düzeltilerek tekrar yükseltilir",
+      "Nafile namazlarla tamamlanır"
+    ],
+    "answer": "B",
+    "sinav": 3
+  },
+  {
+    "no": "125",
     "body": "Kitapta, namazda olağandışı bir durum meydana geldiğinde imamı ikaz etme yöntemi erkekler ve kadınlar için farklı belirlenmiştir.\n\nKitaba göre bu ikaz yöntemleri aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": [
       "Erkekler: el çırpar, Kadınlar: 'Sübhânallah' der",
@@ -1125,10 +1497,10 @@
       "Erkekler ve kadınlar: el çırpar"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "95",
+    "no": "126",
     "body": "Kitapta, gençlik döneminin namaz ibadetiyle ilişkisi anlatılırken, kıyamet gününde Allah'ın arşının gölgesinde gölgelenecek yedi sınıf insandan bahsedilmiştir. Bu yedi sınıftan biri doğrudan gençlerle ilgilidir.\n\nKitaba göre gençlerle ilgili olan bu sınıf aşağıdakilerden hangisidir?",
     "options": [
       "İlim öğrenerek yetişen gençler",
@@ -1137,10 +1509,10 @@
       "Cihat eden gençler"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "96",
+    "no": "127",
     "body": "Kitapta, çocuklara namazın öğretilmesi konusunda belirli yaş eşikleri verilmiştir.\n\nKitaba göre çocuklara namazın öğretileceği ve aralıksız kılmalarının isteneceği yaşlar sırasıyla aşağıdakilerden hangisidir?",
     "options": [
       "5 ve 8 yaş",
@@ -1149,10 +1521,22 @@
       "8 ve 12 yaş"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "97",
+    "no": "128",
+    "body": "Kitapta, İmam Gazali'ye göre abdest sadece bedensel bir temizlik değil, dıştan içe doğru birbirini kuşatan üç katlı bir temizlik sürecidir.\n\nKitaba göre su ile temizlenemeyen şeyler arasında aşağıdakilerden hangisi yer alır?",
+    "options": [
+      "Toz ve kir",
+      "Ter ve kirlilik",
+      "Haset, kıskançlık, riya, kin ve nefret",
+      "Necaset ve maddi pislik"
+    ],
+    "answer": "C",
+    "sinav": 3
+  },
+  {
+    "no": "129",
     "body": "Kitapta, Hendek Savaşı sırasında harbin şiddetlenmesi nedeniyle bir namazın vaktinde kılınamadığı anlatılmıştır. Peygamberimiz bu duruma çok üzülmüş ve kendilerini namazdan alıkoyanlar hakkında beddua etmiştir.\n\nKitaba göre bu savaşta vaktinde kılınamayan namaz aşağıdakilerden hangisidir?",
     "options": [
       "Sabah namazı",
@@ -1161,10 +1545,10 @@
       "Akşam namazı"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "98",
+    "no": "130",
     "body": "Kitapta, namazı vaktinde kılamamanın hangi durumda günah olup hangisinde olmadığı açıkça belirtilmiştir.\n\nKitaba göre aşağıdakilerden hangisi doğrudur?",
     "options": [
       "Uyku ve unutma sebebiyle kazaya bırakmak günah değildir, ancak tembellik ve ihmal sebebiyle bırakmak büyük günahtır",
@@ -1173,10 +1557,10 @@
       "Namazı kazaya bırakmak hiçbir durumda günah değildir, çünkü kaza edilebilir"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "99",
+    "no": "131",
     "body": "Kitapta, mazeret sebebiyle kılınamayan namazların kazası ile mazeretsiz kılınamayan namazların kazası arasında önemli bir fark bulunduğu belirtilmiştir.\n\nBu fark aşağıdakilerden hangisidir?",
     "options": [
       "Mazeret sebebiyle kalanlar kaza edilemez, mazeretsiz kalanlar edilebilir",
@@ -1185,10 +1569,22 @@
       "Mazeret sebebiyle kalanlar kaza edilince sorumluluk kalkar; mazeretsiz kalanlarda kaza yetmez, ayrıca tövbe de gerekir"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "100",
+    "no": "132",
+    "body": "Kitapta Asr suresi referansıyla zamanın akışı karşısında insanın hüsrandan kurtulması için dört şartın bir arada bulunması gerektiği belirtilmiştir.\n\nBu dört şart aşağıdakilerden hangisinde eksiksiz ve doğru verilmiştir?",
+    "options": [
+      "İman, salih amel, hakkı tavsiye, sabrı tavsiye",
+      "İman, namaz, oruç, zekât",
+      "İman, ibadet, ahlak, ilim",
+      "İman, cihat, hicret, sabır"
+    ],
+    "answer": "A",
+    "sinav": 3
+  },
+  {
+    "no": "133",
     "body": "Kitapta, Peygamberimizin vefatından hemen önce ısrarla ve tekrarla söylediği son vasiyeti aktarılmıştır.\n\nPeygamberimizin bu son vasiyeti aşağıdakilerden hangisidir?",
     "options": [
       "Kur'ân'a sarılın, Kur'ân'a!",
@@ -1197,10 +1593,10 @@
       "Cemaati terk etmeyin, cemaati!"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "101",
+    "no": "134",
     "body": "Kitapta, namazın şekil şartları ile manevi boyutu arasındaki ilişki bir benzetmeyle açıklanmıştır.\n\nKitaba göre namazın şekil şartları ve huşu arasındaki ilişki aşağıdakilerden hangisiyle ifade edilmiştir?",
     "options": [
       "Şekil şartları ağaç, huşu meyvedir",
@@ -1209,10 +1605,10 @@
       "Şekil şartları kılıç, huşu kalkandır"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "102",
+    "no": "135",
     "body": "Kitapta, namazdaki birinci secde ile ikinci secde arasında derin bir manevi fark olduğu anlatılmıştır. Her iki secde farklı bir şuurla yapılmaktadır.\n\nKitaba göre birinci ve ikinci secdenin manevi anlamları sırasıyla aşağıdakilerden hangisidir?",
     "options": [
       "Şükür ve istiğfar",
@@ -1221,10 +1617,22 @@
       "Korku ve ümit"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "103",
+    "no": "136",
+    "body": "Kitapta, insanın yaptığı amellerin üç farklı kategoride değerlendirildiği ve her kategorinin farklı sonuçlar doğurduğu anlatılmıştır.\n\nAşağıdakilerden hangisi kitapta belirtilen bu üç kategoriden biri değildir?",
+    "options": [
+      "Yapılması gerekeni yapmamak: itaatsizlik",
+      "Ameli yapmak ama Allah rızası için yapmamak: boş iş, sevap yok, hesaba çekilir",
+      "Ameli Allah rızası için yapmak: kazançlı ticaret, cennet",
+      "Ameli başkalarına gösteriş için yapmak: ikiyüzlülük, münafıklık"
+    ],
+    "answer": "D",
+    "sinav": 3
+  },
+  {
+    "no": "137",
     "body": "Kitapta tahiyyat duasının manevi anlamı açıklanırken, bu duanın namazın belirli bir hakikatle ilişkisini tescil ettiği belirtilmiştir. Buna göre tahiyyat, belirli bir olayda yaşanan selamlaşmanın namazda yeniden yaşanmasıdır.\n\nKitaba göre tahiyyat duası hangi olayı yeniden yaşatır?",
     "options": [
       "Hz. Peygamber'in hicret esnasındaki vedalaşmasını",
@@ -1233,10 +1641,10 @@
       "Hz. Peygamber'in Medine'ye girişindeki karşılamayı"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "104",
+    "no": "138",
     "body": "Kitapta, büyük şair İkbal'in secde hakkında söylediği çarpıcı bir söz aktarılmıştır.\n\nİkbal'in secde hakkındaki sözü aşağıdakilerden hangisidir?",
     "options": [
       "Sana ağır gelen o bir secde var ya, binlerce secdeden kurtarır seni",
@@ -1245,10 +1653,10 @@
       "Her secde, cennete atılan bir adımdır"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "105",
+    "no": "139",
     "body": "Kitapta, Peygamberimizin namaz hakkında kullandığı ifade açıklanırken, bu ifadedeki ince bir dil ayrımına dikkat çekilmiştir. Buna göre Peygamberimiz 'namaz ile' değil, farklı bir ifade kullanmıştır ve bazı gafillerin bu ifadeyi yanlış yorumladığı belirtilmiştir.\n\nKitaba göre Peygamberimizin 'Kamet getir ya Bilal' sözündeki asıl mesaj aşağıdakilerden hangisidir?",
     "options": [
       "Bizi namazla meşgul et",
@@ -1257,10 +1665,22 @@
       "Bizi namaza çabuk başlat"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "106",
+    "no": "140",
+    "body": "Kitapta, Kur'ân-ı Kerîm'de namaz kılarken ciddiyetsizlik içinde olanların ağır bir üslupla eleştirildiği belirtilmiştir.\n\nBu eleştirinin geçtiği suredeki uyarı aşağıdakilerden hangisidir?",
+    "options": [
+      "Namazlarını kılmayanlara yazıklar olsun",
+      "Namazlarını geciktirenlere yazıklar olsun",
+      "Namazlarından gafil olan namaz kılanlara yazıklar olsun",
+      "Namazlarını yalnız kılanlara yazıklar olsun"
+    ],
+    "answer": "C",
+    "sinav": 3
+  },
+  {
+    "no": "141",
     "body": "Kitapta, kadınların mescide gelmesi konusunda Peygamberimizin hem izin veren hem de tercih belirten bir ifadesi aktarılmıştır.\n\nKitaba göre Peygamberimizin bu konudaki tutumu aşağıdakilerden hangisidir?",
     "options": [
       "Kadınların mescide gelmesine engel olunmamasını, ancak evlerinin onlar için daha hayırlı olduğunu söylemiştir",
@@ -1269,10 +1689,10 @@
       "Kadınların sadece bayram namazlarına katılmasını uygun görmüştür"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "107",
+    "no": "142",
     "body": "Kitapta, ergenlik (bülûğ) yaşları konusunda bir araştırma sonucuna atıfta bulunulmuştur.\n\nBu araştırmaya göre kızlarda ve erkeklerde bülûğa erme yaş aralıkları sırasıyla aşağıdakilerden hangisidir?",
     "options": [
       "Kızlarda 8-16, erkeklerde 10-18",
@@ -1281,10 +1701,10 @@
       "Kızlarda 10-18, erkeklerde 9-19"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "108",
+    "no": "143",
     "body": "Kitapta üç özel mescidin diğer camilerden farklı olduğu ve bunların ziyaretinin teşvik edildiği belirtilmiştir.\n\nAşağıdakilerden hangisi kitapta belirtilen bu üç mescidden biri değildir?",
     "options": [
       "Mescid-i Haram",
@@ -1293,10 +1713,22 @@
       "Mescid-i Kuba"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "109",
+    "no": "144",
+    "body": "Kitapta, kaza namazının kılınmasında Hanefî ve Şâfiî mezhepleri arasında bir görüş farkı olduğu belirtilmiştir. Bu fark, seferde kazaya kalan namazın mukim iken kaza edilmesi durumuyla ilgilidir.\n\nKitaba göre seferde kazaya kalan dört rekâtlık bir farz namazı, mukim iken kaza eden kişi Hanefî mezhebine göre kaç rekât kılar?",
+    "options": [
+      "4 rekât, çünkü kısaltmanın sebebi olan yolculuk kalkmıştır",
+      "2 rekât, çünkü seferde kazaya kalmıştır",
+      "3 rekât, vitir gibi kılınır",
+      "Kılmayabilir, nafile ile tamamlanır"
+    ],
+    "answer": "A",
+    "sinav": 3
+  },
+  {
+    "no": "145",
     "body": "Kitapta, namaz kılmayan kimselere karşı Peygamberimizin çok sert bir tepki gösterdiği bir hadis aktarılmıştır. Peygamberimiz, cemaate gelmeyenlerin evlerini yakmayı düşündüğünü ifade etmiştir.\n\nKitaba göre aşağıdakilerden hangisi bu hadis hakkında doğrudur?",
     "options": [
       "Peygamberimiz içinden böyle geçtiğini söylemiş ancak uygulamaya koymamıştır",
@@ -1305,10 +1737,10 @@
       "Peygamberimiz bu sözü sadece kadınlara yönelik söylemiştir"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "110",
+    "no": "146",
     "body": "Kitapta, Abdullah b. Mes'ûd'un cemaatle namaza devam hakkındaki şahitliği aktarılmıştır. Abdullah b. Mes'ûd, sahabe döneminde cemaatten geri kalanlar hakkında önemli bir gözlemde bulunmuştur.\n\nAbdullah b. Mes'ûd'a göre sahabe döneminde cemaatten geri kalanlar aşağıdakilerden hangisidir?",
     "options": [
       "Hastalar ve yaşlılar",
@@ -1317,10 +1749,10 @@
       "Savaşa gidenler"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "111",
+    "no": "147",
     "body": "Kitapta insanın yaratılışı ve organları arasındaki ilişki bir metaforla anlatılmıştır. Buna göre Allah, insana yedi aza (organ) bahşetmiş ve bu azaların yönetimi için belirli bir organ görevlendirilmiştir. Bu yönetici organ, içinde çeşitli hazineler barındırmaktadır.\n\nKitaba göre yedi azayı yönetmekle görevlendirilen organ ve içindeki hazineler aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": [
       "Akıl; ilim, hikmet, tefekkür, basiret",
@@ -1329,10 +1761,22 @@
       "Vicdan; doğruluk, adalet, merhamet, şefkat"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "112",
+    "no": "148",
+    "body": "Kitapta, sabah namazının kazası için bir zaman sınırı belirtilmiştir.\n\nKitaba göre sabah namazı vaktinde kılınamazsa sünnetiyle birlikte en geç ne zamana kadar kaza edilmelidir?",
+    "options": [
+      "O günün akşam namazı vaktinden önce",
+      "O günün yatsı namazı vaktinden önce",
+      "O günün öğle namazı vaktinden önce",
+      "Herhangi bir zaman sınırı yoktur"
+    ],
+    "answer": "C",
+    "sinav": 3
+  },
+  {
+    "no": "149",
     "body": "Kitapta insanın yedi azası, belirli bir benzetmeyle anlatılmıştır. Bu benzetmede insan bir meslek sahibi, azaları ise onun sorumluluğundaki varlıklar olarak tasvir edilmiştir. Her bir azanın kendine ait bir alanı vardır ve bu alanın dışına çıkamaz.\n\nKitaba göre bu benzetmede insan ve yedi aza sırasıyla neye benzetilmiştir?",
     "options": [
       "Komutan ve askerleri",
@@ -1341,10 +1785,10 @@
       "Çoban ve yedi koyunu"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "113",
+    "no": "150",
     "body": "Kitaptaki çoban-koyun metaforunda, koyunların karşılaşabileceği çeşitli tehlikeler sıralanmıştır. Çoban bu tehlikelere karşı farklı tedbirler almaktadır. Tehlikelerden biri zehirli otlaklara girmektir ve bunun tedavisi için özel bir ilaç kullanılmaktadır.\n\nKitaba göre zehirli otlaklara karşı kullanılan bu ilacın adı ve içeriği aşağıdakilerden hangisidir?",
     "options": [
       "El-Bazir; yağ ve sütten oluşan ilaç",
@@ -1353,10 +1797,10 @@
       "El-Tiryâk; baldan yapılan panzehir"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "114",
+    "no": "151",
     "body": "Kitapta, namazın semeresi (meyvesi) diğer ibadetlerin semereleriyle karşılaştırılmıştır. Buna göre her ibadetin kendine özgü bir semeresi varken, namazın semeresi diğerlerinden farklı ve kapsamlı bir nitelik taşımaktadır.\n\nAşağıdaki ibadet-semere eşleştirmelerinden hangisi kitaba göre yanlıştır?",
     "options": [
       "Oruç: Nefsin temizlenmesi",
@@ -1365,10 +1809,22 @@
       "Cihat: Cennetin gerekliliği"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "115",
+    "no": "152",
+    "body": "Kitapta, mazeret sebebiyle kazaya kalan namazlar ile mazeretsiz kazaya kalan namazlar arasında önemli bir fark olduğu vurgulanmıştır.\n\nKitaba göre mazeretsiz kazaya kalan namazlar kaza edildiğinde sorumluluk kalkar mı?",
+    "options": [
+      "Hayır, kaza edilmesiyle sorumluluk kalkmaz, ayrıca tövbe edilmesi de gerekir",
+      "Evet, kaza edilince her durumda sorumluluk kalkar",
+      "Hayır, kaza namazı kabul edilmez",
+      "Evet, ama nafile namazlar da kılınmalıdır"
+    ],
+    "answer": "A",
+    "sinav": 3
+  },
+  {
+    "no": "153",
     "body": "Kitapta namazın semeresi olan \"Allah'ın kuluna yönelmesi\" kavramı açıklanırken, bu semerenin diğer ibadetlerin semereleriyle olan ilişkisi de belirtilmiştir.\n\nKitaba göre namazın semeresi hakkında aşağıdakilerden hangisi doğrudur?",
     "options": [
       "Namazın semeresi yalnızca günahların affedilmesidir",
@@ -1377,10 +1833,10 @@
       "Namazın semeresi, diğer ibadetlerin semlerelerinin hepsini içinde barındırır"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "116",
+    "no": "154",
     "body": "Kitapta namaz, belirli bir mekân ve olay benzetmesiyle tanımlanmıştır. Bu benzetmeye göre namazın içindeki farklı rükünler, bu mekândaki farklı ikramlara karşılık gelmektedir.\n\nAşağıdakilerden hangisi kitaptaki bu benzetmede doğru bir eşleştirmedir?",
     "options": [
       "Namaz = okul; rükünler = dersler",
@@ -1389,10 +1845,10 @@
       "Namaz = savaş; rükünler = mücadele safhaları"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "117",
+    "no": "155",
     "body": "Kitapta, Peygamberimizin namaz hakkındaki bir hadisinde kullanılan kelime seçimi üzerinde durulmuş ve ince bir dil ayrımına dikkat çekilmiştir. Buna göre Peygamberimiz \"Gözümün nuru namaz ile kılındı\" dememiş, bunun yerine farklı bir ifade kullanmıştır.\n\nKitaba göre Peygamberimizin kullandığı doğru ifade aşağıdakilerden hangisidir?",
     "options": [
       "Gözümün nuru namazda kılındı",
@@ -1401,10 +1857,22 @@
       "Gözümün nuru namaz esnasında verildi"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "118",
+    "no": "156",
+    "body": "Kitapta, Peygamberimizin vefat ettiği hastalığında cemaatle namaza olan tutumu anlatılmıştır.\n\nKitaba göre Peygamberimiz bu hastalığında ne yapmıştır?",
+    "options": [
+      "İki kişinin arasında mescide gelmiştir",
+      "Evinde tek başına namaz kılmıştır",
+      "Namazı tamamen bırakmıştır",
+      "Yalnızca oturarak namaz kılmıştır"
+    ],
+    "answer": "A",
+    "sinav": 3
+  },
+  {
+    "no": "157",
     "body": "Kitapta, insanın namazdaki yönelişinin düzeyine göre üç farklı kategori oluşturulmuştur: sadıklar, sıddıklar ve sıddıklardan olan seçkin kullar. Bu üç grubun namazdaki yönelişleri birbirinden farklıdır.\n\nKitaba göre sadıklar ile sıddıkların namazdaki yönelişleri arasındaki temel fark aşağıdakilerden hangisidir?",
     "options": [
       "Sadıklar cemaatle kılar, sıddıklar tek başına kılar",
@@ -1413,10 +1881,10 @@
       "Sadıklar kısa kılar, sıddıklar uzun kılar"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "119",
+    "no": "158",
     "body": "Kitapta, namazın her bir rüknünün insanı belirli bir olumsuzluktan kurtardığı detaylı bir şekilde açıklanmıştır.\n\nAşağıdaki rükün-etki eşleştirmelerinden hangisi kitaba göre doğrudur?",
     "options": [
       "Tekbir: Gafletten arınma",
@@ -1425,10 +1893,10 @@
       "Tilavet: Nefsanî teslimiyeti ve ahdi yenileme"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "120",
+    "no": "159",
     "body": "Kitapta namazın rükünlerinin manevi etkileri listelenmiştir. Buna göre her rükün insanı farklı bir olumsuzluktan kurtarmaktadır.\n\nI. Kıyam: Asi olmaktan çıkış\nII. Tekbir: Kibirden uzak durma\nIII. Rükû: Günahlardan arınma\nIV. Secde: Günahlardan arınma\nV. Selam: En büyük tehlikeden çıkış\n\nKitaba göre yukarıdaki eşleştirmelerden hangisi yanlıştır?",
     "options": [
       "Yalnız I",
@@ -1437,10 +1905,22 @@
       "Yalnız V"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "121",
+    "no": "160",
+    "body": "Kitapta, namazda okunan Sübhâneke duasının manevi işlevi açıklanmıştır. Buna göre bu dua, insanı belirli bir tuzaktan korumaktadır.\n\nKitaba göre Sübhâneke duası insanı hangi tuzaktan korur?",
+    "options": [
+      "Kendini hatadan ve kusurdan tenzih etme (temize çıkarma) illetinden",
+      "Dünya sevgisinden",
+      "Başkalarını kıskanma duygusundan",
+      "Ahireti unutma tehlikesinden"
+    ],
+    "answer": "A",
+    "sinav": 3
+  },
+  {
+    "no": "161",
     "body": "Kitapta, kalpteki marifet (Allah'ı tanıma bilgisi) bir benzetmeyle anlatılmıştır. Buna göre marifet belirli bir nesne gibidir ve gaflet halinde bu nesne üzerinde belirli bir tabaka oluşur. İnsan Allah'ı övdüğünde ise bu tabaka kaldırılır.\n\nKitaba göre bu benzetmede marifet neye, gaflet halindeki durum neye benzetilmiştir?",
     "options": [
       "Marifet = ışık; gaflet = karanlık perdesi",
@@ -1449,10 +1929,10 @@
       "Marifet = tutuşmuş köz; gaflet = külün közü örtmesi"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "122",
+    "no": "162",
     "body": "Kitapta, iki namaz arasında insanda meydana gelen olumsuz haller sıralanmıştır. Her namaz bu olumsuz hallerin giderilmesi için bir tövbe niteliği taşımaktadır.\n\nAşağıdakilerden hangisi kitapta iki namaz arasında oluştuğu belirtilen olumsuz hallerden biri değildir?",
     "options": [
       "Gaflet",
@@ -1461,10 +1941,10 @@
       "İnkâr ve şirk"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "123",
+    "no": "163",
     "body": "Kitapta, gafletin zincirleme etkisi detaylı olarak açıklanmıştır. Gaflet bir dizi olumsuz sonuca yol açarak insanı adım adım daha kötü bir duruma sürüklemektedir.\n\nKitaba göre gafletin zincirleme etkisinin doğru sıralaması aşağıdakilerden hangisidir?",
     "options": [
       "Gaflet → günah → tövbe → tekrar günah → azap",
@@ -1473,10 +1953,22 @@
       "Gaflet → şüphe → inkâr → küfür → cehennem"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "124",
+    "no": "164",
+    "body": "Kitapta, rükûda ve secdede Allah'ın farklı sıfatlarına yönelindiği ve bu yönelişin pratik bir sonucu olduğu belirtilmiştir.\n\nKitaba göre rükûda Azîm olan Rabbi için eğilen başın pratik sonucu aşağıdakilerden hangisidir?",
+    "options": [
+      "Azîm olmayan kulların karşısında asla eğilmez",
+      "Günahlar affedilir",
+      "Dünya sevgisi kalpten çıkar",
+      "İlim ve hikmet artar"
+    ],
+    "answer": "A",
+    "sinav": 3
+  },
+  {
+    "no": "165",
     "body": "Kitapta, kötü çobana yönelik bir atasözü aktarılmıştır. Bu atasözünde çobanın koyunlardan faydalandığı halde görevini ihmal ettiği eleştirilmektedir.\n\nKitapta aktarılan bu atasözüne göre çobanın yaptığı üç şey ve ihmal ettiği üç görev aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": [
       "Yaptığı: sağmak, kesmek, satmak / İhmal: yavrularına bakmak, suya götürmek, gece korumak",
@@ -1485,10 +1977,10 @@
       "Yaptığı: eti yemek, sütü içmek, yünü giymek / İhmal: koyuna sahip çıkmamak, kırığı onarmamak, merasında otlatmamak"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "125",
+    "no": "166",
     "body": "Kitapta, güzel kılınan namazın ve kötü kılınan namazın ahiretteki durumu iki ayrı hadisle tasvir edilmiştir. Güzel kılınan namaz belirli bir şekilde Allah'a yükselirken, kötü kılınan namaz tamamen farklı bir durumla karşılaşmaktadır.\n\nKitaba göre güzel kılınan namazın Allah'a yükselme hali aşağıdakilerden hangisidir?",
     "options": [
       "Parlak bir halde, doğu ile batı arasında bulunan her şeyi aydınlatır bir vaziyette yükselir",
@@ -1497,10 +1989,10 @@
       "Hızla ve doğrudan Arş'a yükselir"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "126",
+    "no": "167",
     "body": "Kitapta, kötü kılınan namazın kıyametteki durumu çarpıcı bir şekilde tasvir edilmiştir. Bu namaz sahibine dönerek belirli bir söz söylemekte ve sonunda belirli bir muameleye tabi tutulmaktadır.\n\nKitaba göre kötü kılınan namazın sahibine söylediği söz ve sonraki muamele aşağıdakilerden hangisidir?",
     "options": [
       "\"Beni affet\" der ve yeniden kılma fırsatı verilir",
@@ -1509,10 +2001,22 @@
       "\"Beni hatırla\" der ve kıyamette tekrar kılması istenir"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "127",
+    "no": "168",
+    "body": "Kitapta, ezan dinlerken 'Hayye ale's-salâh' ve 'Hayye ale'l-felâh' cümlelerinde müezzinin sözleri tekrar edilmez, bunun yerine farklı bir ifade söylenir.\n\nKitaba göre bu cümlelerde söylenmesi gereken ifade aşağıdakilerden hangisidir?",
+    "options": [
+      "Sübhânallah",
+      "Âmin",
+      "Mâşâallah",
+      "Lâ havle velâ kuvvete illâ billâh"
+    ],
+    "answer": "D",
+    "sinav": 3
+  },
+  {
+    "no": "169",
     "body": "Kitapta, yedi sema ehlinin her birinin farklı bir ibadet şekliyle meşgul olduğu anlatılmıştır. Tüm bu farklı ibadet şekillerinin tek bir namazda mümin için bir araya getirildiği belirtilmiştir.\n\nAşağıdaki sema-ibadet eşleştirmelerinden hangisi kitaba göre yanlıştır?",
     "options": [
       "Dünya seması ehli: Secde",
@@ -1521,10 +2025,10 @@
       "Beşinci sema ehli: Kâde (diz üzerine çöküş)"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "128",
+    "no": "170",
     "body": "Kitapta Mi'rac hadisesi detaylı bir şekilde anlatılmıştır. Buna göre Peygamberimize ilk başta belirli sayıda vakit namaz farz kılınmış, ardından bir peygamberin tavsiyesiyle bu sayı kademeli olarak azaltılmıştır.\n\nKitaba göre Mi'rac'ta ilk farz kılınan namaz sayısı ve tavsiye veren peygamber aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": [
       "50 vakit; Hz. Musa",
@@ -1533,10 +2037,10 @@
       "30 vakit; Hz. Nuh"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "129",
+    "no": "171",
     "body": "Kitapta, Mi'rac hadisesinde Hz. Musa'nın Peygamberimize tavsiye verirken İsrailoğulları'nın durumunu örnek gösterdiği anlatılmıştır.\n\nKitaba göre Hz. Musa, İsrailoğulları hakkında ne söylemiştir?",
     "options": [
       "Onlara on vakit farz kılınmış ama sadece beşini yapmışlardır",
@@ -1545,10 +2049,22 @@
       "Onlara yedi vakit farz kılınmış ama beşe indirmişlerdir"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "130",
+    "no": "172",
+    "body": "Kitapta, namazın cemaatle kılınmasıyla ilgili önemli bir kural verilmiştir. Buna göre savaş halinde bile cemaatle namaz terk edilemez.\n\nKitaba göre savaşta cemaatle namazın terk edilmemesi hakkındaki hükmün kaynağı aşağıdakilerden hangisidir?",
+    "options": [
+      "Peygamberimizin kişisel tercihi",
+      "Sahâbelerin ictihadı",
+      "Kur'ân-ı Kerîm'deki emir",
+      "Mezhep imamlarının fetvası"
+    ],
+    "answer": "C",
+    "sinav": 3
+  },
+  {
+    "no": "173",
     "body": "Kitapta insanın yaptığı ameller üç farklı kategoride değerlendirilmiştir. Her kategorinin sonucu birbirinden tamamen farklıdır.\n\nI. Yapılması gereken ameli yapmamak → itaatsizlik\nII. Ameli yapmak ama Allah rızası için yapmamak → boş iş, sevap verilmez, hesaba çekilir\nIII. Ameli Allah rızası için yapmak → kazançlı ticaret, cennet ve Allah'ın hoşnutluğu\n\nKitaba göre yukarıdaki kategorilerden hangisi veya hangileri doğrudur?",
     "options": [
       "Yalnız I ve III",
@@ -1557,10 +2073,10 @@
       "Yalnız I ve II"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "131",
+    "no": "174",
     "body": "Kitapta, gaflet ve zikir arasındaki ilişki bir tabiat olayı benzetmesiyle açıklanmıştır. Buna göre kul belirli bir davranışa devam ettikçe rahmet gelmeye devam eder, aksini yaptığında ise olumsuz bir doğal durum ortaya çıkar.\n\nKitaba göre bu benzetmede zikir ve gaflet sırasıyla neye benzetilmiştir?",
     "options": [
       "Zikir = yağmur; gaflet = kuraklık",
@@ -1569,10 +2085,10 @@
       "Zikir = bahar; gaflet = kış"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "132",
+    "no": "175",
     "body": "Kitapta, Allah'ın tekebbür eden (büyüklenen) kullara karşı tutumu açıklanmıştır. Buna göre Allah, kullarını belirli bir haldeyken sever, ancak tekebbür ettiklerinde çok kızar.\n\nKitaba göre Allah'ın kullarını sevdiği hal ve tekebbüre kızmasının sebebi aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": [
       "Sevdiği hal: ilim sahibi olmaları; Kızma sebebi: ilimle kibirlenmeleri",
@@ -1581,10 +2097,22 @@
       "Sevdiği hal: çok ibadet etmeleri; Kızma sebebi: ibadetle övünmeleri"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "133",
+    "no": "176",
+    "body": "Kitapta, namazın benlik üzerindeki etkisi açıklanırken, araştırmaların gösterdiği bir sonuç belirtilmiştir.\n\nKitaba göre araştırmaların gösterdiği sonuç aşağıdakilerden hangisidir?",
+    "options": [
+      "Dindarlıkla benlik saygısı arasında olumlu ilişki vardır",
+      "Namaz kılanlar daha az uyur",
+      "Namaz kılanlar daha çok kazanır",
+      "Namaz kılmayanlar daha mutludur"
+    ],
+    "answer": "A",
+    "sinav": 3
+  },
+  {
+    "no": "177",
     "body": "Kitapta, namaz kılmasına rağmen kötülüklerden uzak durmayan kişinin durumu hakkında hem bir ayet hem de bir hadis aktarılmıştır. Hadise göre böyle bir namazın sonucu çok ağırdır.\n\nKitaba göre kişiyi kötülüklerden alıkoymayan namazın sonucu aşağıdakilerden hangisidir?",
     "options": [
       "Bu namaz kişiyi Allah'tan daha fazla uzaklaştırmaktan başka bir işe yaramamıştır",
@@ -1593,10 +2121,10 @@
       "Bu namaz kıyamete kadar ertelenir ve orada tekrar değerlendirilir"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "134",
+    "no": "178",
     "body": "Kitapta, namaz kılmanın kime ağır gelip kime gelmediği bir ayetle açıklanmıştır.\n\nKitaba göre namaz aşağıdakilerden hangisine ağır gelmez?",
     "options": [
       "Zengin olan kullara",
@@ -1605,10 +2133,10 @@
       "Cemaatle kılan kullara"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "135",
+    "no": "179",
     "body": "Kitapta, Mi'rac hadisesinde Peygamberimizin yedinci semaya çıkarıldığı ve orada belirli bir peygamberi gördüğü anlatılmıştır. Ancak bu peygamber, Hz. Musa'dan farklı olarak, Peygamberimize herhangi bir tavsiyede bulunmamıştır.\n\nKitaba göre yedinci semada bulunan ve sessiz kalan bu peygamber aşağıdakilerden hangisidir?",
     "options": [
       "Hz. Âdem",
@@ -1617,10 +2145,22 @@
       "Hz. İdris"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 3
   },
   {
-    "no": "136",
+    "no": "180",
+    "body": "Kitapta, namazda kılınan her rekâtta tekrar edilen ve bireyin içselleştirmesi beklenen temel bir düstur belirtilmiştir.\n\nKitaba göre bu düstur aşağıdakilerden hangisidir?",
+    "options": [
+      "Sübhânallahi ve bihamdih",
+      "Lâ ilâhe illallah",
+      "Yalnız Sana kulluk ederiz ve yalnız senden yardım dileriz",
+      "Estağfirullah"
+    ],
+    "answer": "C",
+    "sinav": 3
+  },
+  {
+    "no": "181",
     "body": "Kitapta, Mi'rac gecesinde Peygamberimizin çıkarıldığı en yüksek noktada özel bir deneyim yaşadığı anlatılmıştır. Bu noktada kendisini bir bulut tabakası kaplamış ve çok özel sesler duymuştur.\n\nKitaba göre Peygamberimizin duyduğu bu sesler aşağıdakilerden hangisidir?",
     "options": [
       "Meleklerin tesbih sesleri",
@@ -1629,10 +2169,10 @@
       "Kur'ân okunma sesleri"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "137",
+    "no": "182",
     "body": "Kitapta, namazın her bir fiilindeki yönelişin Allah'ın farklı bir sıfatına yönelik olduğu açıklanmıştır.\n\nAşağıdaki fiil-sıfat eşleştirmelerinden hangisi kitaba göre doğrudur?",
     "options": [
       "Kıyam: Allah'ın Rahmaniyetine yöneliş",
@@ -1641,10 +2181,10 @@
       "İstaze (Eûzü): Allah'ın Cömertliğine yöneliş"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "138",
+    "no": "183",
     "body": "Kitapta, kalbin Allah'ın rahmetiyle olan ilişkisi bir doğa benzetmesiyle açıklanmıştır. Buna göre göğüs nurla dolu olursa kalp ve azalar belirli bir hale gelir, aksi durumda ise tamamen farklı bir durum ortaya çıkar.\n\nKitaba göre göğüs nurla dolduğunda kalbin ve azaların durumu aşağıdakilerden hangisidir?",
     "options": [
       "Kalp güçlü, azalar dayanıklı olur",
@@ -1653,10 +2193,22 @@
       "Kalp ıslak, azalar yumuşak olur ve itaate sevk edilince boyun eğerler"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "139",
+    "no": "184",
+    "body": "Kitapta, namaz kılmayı alışkanlık haline getirmek için çeşitli tedbirler sıralanmıştır.\n\nAşağıdakilerden hangisi kitapta sayılan bu tedbirlerden biri değildir?",
+    "options": [
+      "Günlük hayatı namaza göre düzenlemek",
+      "Namaz kılan insanlarla beraber bulunmak",
+      "Günahlardan uzak durarak kalbin meşgul olmasını önlemek",
+      "Namazı sadece Cuma günleri kılarak başlamak"
+    ],
+    "answer": "D",
+    "sinav": 4
+  },
+  {
+    "no": "185",
     "body": "Kitapta, insanın namazdaki teşehhüdde oturmasının yöneldiği ilahî sıfat belirtilmiştir. Bu yöneliş, kalbinde belirli duygular oluşturur ve kişiyi belirli bir davranıştan uzak tutar.\n\nKitaba göre teşehhüdde kulun yöneldiği ilahî sıfat ve bunun kalpte oluşturduğu etki aşağıdakilerden hangisidir?",
     "options": [
       "Allah'ın Rahmaniyetine yöneliş; kalbi şefkatle doldurur",
@@ -1665,10 +2217,10 @@
       "Allah'ın Kerimiyetine yöneliş; kalbi umutla doldurur"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "140",
+    "no": "186",
     "body": "Kitapta, namazın emanetlerle ilişkisi açıklanmıştır. Buna göre insana emanet edilen yedi aza, misak gününde verilen bir ahitle bağlıdır. Bu azalara sahip çıkan belirli bir sonuçla karşılaşacaktır.\n\nKitaba göre yedi azanın emanet niteliği ve bunlara sahip çıkmanın sonucu aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": [
       "Emanet: misak gününde bu azalarla Allah'a ibadet edileceğine dair verilen sözdür; Sonuç: cennet",
@@ -1677,10 +2229,10 @@
       "Emanet: dünya hayatında başarı elde etme aracıdır; Sonuç: dünyada refah"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "141",
+    "no": "187",
     "body": "Kitapta \"salât\" kelimesinin Arapçadaki anlamları verilmiştir.\n\nAşağıdakilerden hangisi kitapta belirtilen \"salât\" kelimesinin anlamlarından biri değildir?",
     "options": [
       "Secde etmek",
@@ -1689,10 +2241,22 @@
       "Dua etmek"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "142",
+    "no": "188",
+    "body": "Kitapta, farz namazlar aynî ve kifâî olarak ikiye ayrılmıştır.\n\nAşağıdakilerden hangisi kifâî farz namaza örnektir?",
+    "options": [
+      "Beş vakit namaz",
+      "Cuma namazı",
+      "Cenaze namazı",
+      "Bayram namazı"
+    ],
+    "answer": "C",
+    "sinav": 4
+  },
+  {
+    "no": "189",
     "body": "Kitapta Peygamberimizin namazı belirli bir benzetmeyle nitelediği aktarılmıştır. Bu benzetmeye göre namaz, bir binanın belirli bir yapısal unsuruna benzetilmiştir.\n\nKitaba göre Peygamberimiz namazı aşağıdakilerden hangisine benzetmiştir?",
     "options": [
       "Binanın temeli",
@@ -1701,10 +2265,10 @@
       "İslam binasının kapısı"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "143",
+    "no": "190",
     "body": "Kitapta namaz kılmayan kişinin dini durumu açıkça belirtilmiştir. Buna göre ameller imanın bir parçası değildir ve iman esaslarını inkâr etmedikçe kişi dinden çıkmaz.\n\nKitaba göre namaz kılmayan kimsenin durumu aşağıdakilerden hangisidir?",
     "options": [
       "Kâfir sayılır ve İslam'dan çıkar",
@@ -1713,10 +2277,10 @@
       "Günahkârdır, Allah'ın emirlerini yerine getirmeyen biridir fakat İslam dairesi içindedir"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "144",
+    "no": "191",
     "body": "Kitapta namazın özü hakkında önemli bir tespit yapılmıştır. Buna göre namazda sadece şekil şartlarını yerine getirmek yeterli değildir.\n\nKitaba göre namazın özü aşağıdakilerden hangisidir?",
     "options": [
       "Rükünlerin eksiksiz yapılması",
@@ -1725,10 +2289,22 @@
       "Cemaatle kılınması"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "145",
+    "no": "192",
+    "body": "Kitapta, Kur'ân'ın insan hayatında boşluğa yer olmadığını ve günün her ânının planlanmış olduğunu belirten bir ayet aktarılmıştır. Bu ayette güneş ve ay ile ilgili bilgi verilmektedir.\n\nKitaba göre güneş ve ayın yaratılmasının hikmetlerinden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Yılların sayısını ve hesabı bilmemizi sağlamak",
+      "İnsanlara sıcaklık ve ışık vermek",
+      "Bitkilerin büyümesini sağlamak",
+      "Mevsimlerin oluşmasına sebep olmak"
+    ],
+    "answer": "A",
+    "sinav": 4
+  },
+  {
+    "no": "193",
     "body": "Kitapta, namaz kıldığı halde kötülük yapan kişilerin durumu açıklanmıştır. Buna göre bu kişilerin namazlarında belirli bir sorun vardır.\n\nKitaba göre bu sorun aşağıdakilerden hangisidir?",
     "options": [
       "Namazlarının bilinçli ve dosdoğru kılınmaması, dolayısıyla kötülükten alıkoyacak kaliteye ulaşmamış olması",
@@ -1737,10 +2313,10 @@
       "Namazlarını vakit çıktıktan sonra kaza olarak kılmaları"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "146",
+    "no": "194",
     "body": "Kitapta huşunun sağlanması için üç temel husus belirtilmiştir.\n\nAşağıdakilerden hangisi kitapta huşuyu sağlamaya yardımcı olan hususlardan biri olarak belirtilmemiştir?",
     "options": [
       "Namazın şartlarına ve rükünlerine dikkat ederek kılınması",
@@ -1749,10 +2325,10 @@
       "Namazı mutlaka camide cemaatle kılmak"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "147",
+    "no": "195",
     "body": "Kitapta namazların dinî hüküm açısından üç ana kategoriye ayrıldığı belirtilmiştir. Bu kategorilerden biri olan vacip namazlar da kendi içinde ikiye ayrılmaktadır.\n\nAşağıdakilerden hangisi li-aynihî vacip namaza örnektir?",
     "options": [
       "Adak namazı",
@@ -1761,10 +2337,22 @@
       "Bozulan nafile namazın kazası"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "148",
+    "no": "196",
+    "body": "Kitapta, namaz kılmayan insanlara yaklaşım konusunda önemli bir uyarı yapılmıştır.\n\nKitaba göre namaz kılmayanlara karşı nasıl bir tutum sergilenmelidir?",
+    "options": [
+      "Onları bu davranışlara tahrik edecek şekilde tenkit tarzında olmamalıyız, çünkü tenkit davranışlarını değiştirmez",
+      "Onları tenkit ederek doğru yola çağırmalıyız",
+      "Onlarla hiç iletişim kurmamalıyız",
+      "Onlara namazın farz olduğunu her fırsatta hatırlatmalıyız"
+    ],
+    "answer": "A",
+    "sinav": 4
+  },
+  {
+    "no": "197",
     "body": "Kitapta nafile namazlar iki alt kategoriye ayrılmıştır: revâtib ve regâib namazlar.\n\nAşağıdakilerden hangisi kitapta regâib namazlar arasında sayılmamıştır?",
     "options": [
       "Teheccüd namazı",
@@ -1773,10 +2361,10 @@
       "Teravih namazı"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "149",
+    "no": "198",
     "body": "Kitapta namazın geçerli olması için uyulması gereken şartlar (namazın dışındaki farzlar) altı madde olarak sıralanmıştır.\n\nAşağıdakilerden hangisi bu altı şarttan biri değildir?",
     "options": [
       "Hadesten taharet",
@@ -1785,10 +2373,10 @@
       "Cemaatle kılmak"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "150",
+    "no": "199",
     "body": "Kitapta namazın içindeki farzlar (rükünleri) altı madde olarak sıralanmıştır.\n\nAşağıdakilerden hangisi bu altı rükünden biri değildir?",
     "options": [
       "İftitah tekbiri",
@@ -1797,10 +2385,22 @@
       "Salli-Bârik duaları"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "151",
+    "no": "200",
+    "body": "Kitapta, islamiyetin güzelliğini açıklamak için yağmur benzetmesi yapılmıştır.\n\nBu benzetmeye göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yağmur güzel bitkilerle birlikte kötü bitkileri de çıkarır, ama bu yağmurun güzelliğini değiştirmez",
+      "Yağmur sadece güzel bitkileri yeşertir",
+      "Yağmur yağınca sadece çiçekler açar",
+      "Yağmurun yağması kötü bitkilerin suçudur"
+    ],
+    "answer": "A",
+    "sinav": 4
+  },
+  {
+    "no": "201",
     "body": "Kitapta, namazda avret yerinin açılması durumunda namazın bozulup bozulmayacağı belirli ölçülerle açıklanmıştır.\n\nKitaba göre namazda irade dışı açılan bir organın namazı bozması için hangi iki şartın birlikte gerçekleşmesi gerekir?",
     "options": [
       "Açılan yerin tamamı görülmeli ve kişi fark etmeli",
@@ -1809,10 +2409,10 @@
       "Açılan yer bir organın dörtte biri oranına ulaşmalı ve bir rükün eda edilecek kadar açık kalmalı"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "152",
+    "no": "202",
     "body": "Kitapta Hanefî mezhebine göre kadınların çıplak ayakla namaz kılıp kılamayacağı konusunda bilgi verilmiştir.\n\nKitaba göre Hanefî mezhebinin bu konudaki görüşü aşağıdakilerden hangisidir?",
     "options": [
       "Topuklardan yukarısı açık olmamak şartıyla çıplak ayakla namaz kılınabilir",
@@ -1821,10 +2421,10 @@
       "Çorap giyilmesi her durumda farzdır"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "153",
+    "no": "203",
     "body": "Kitapta, oje, ruj gibi maddelerin abdeste etkisi ve bunun istisnaları açıklanmıştır.\n\nKitaba göre aşağıdakilerden hangisi abdeste engel olmaz?",
     "options": [
       "Jöle",
@@ -1833,10 +2433,22 @@
       "Boya"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "154",
+    "no": "204",
+    "body": "Kitapta, 'amellerin en faziletlisi' sorulduğunda Peygamberimizin üç kez aynı cevabı verdiği, dördüncü soruda ise farklı bir cevap verdiği anlatılmıştır.\n\nPeygamberimizin dördüncü soruda verdiği cevap aşağıdakilerden hangisidir?",
+    "options": [
+      "Oruç tutmak",
+      "Sadaka vermek",
+      "Hac yapmak",
+      "Allah yolunda cihat"
+    ],
+    "answer": "D",
+    "sinav": 4
+  },
+  {
+    "no": "205",
     "body": "Kitapta kerahet vakitleri üç ana vakit olarak belirtilmiştir. Bu vakitlerde kılınamayan namazlar da sayılmıştır. Ancak bir istisna olarak belirli bir namazın son kerahet vaktinde kılınabileceği ifade edilmiştir.\n\nKitaba göre güneşin batmasından önceki kerahet vaktinde kılınabilecek tek namaz aşağıdakilerden hangisidir?",
     "options": [
       "O günün sabah namazının kazası",
@@ -1845,10 +2457,10 @@
       "Cenaze namazı"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "155",
+    "no": "206",
     "body": "Kitapta, sabah namazı kılınırken güneşin doğması durumunda namazın bozulup bozulmayacağı konusunda farklı görüşler aktarılmıştır.\n\nKitaba göre İmam Ebû Hanîfe'nin ve İmam Ebû Yûsuf ile Muhammed'in görüşleri aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": [
       "Ebû Hanîfe: bozulmaz; Ebû Yûsuf ve Muhammed: bozulur",
@@ -1857,10 +2469,10 @@
       "Hepsi: kesinlikle bozulmaz"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "156",
+    "no": "207",
     "body": "Kitapta, Cuma namazının toplam rekât sayısı ve farz kısmının rekât sayısı belirtilmiştir.\n\nKitaba göre Cuma namazının sünnetleriyle birlikte toplam rekât sayısı ve farz kısmı aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": [
       "Toplam 8 rekât; farz 2 rekât",
@@ -1869,10 +2481,22 @@
       "Toplam 10 rekât; farz 4 rekât"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "157",
+    "no": "208",
+    "body": "Kitapta, namazda söylenen her bir kelimenin kalpteki marifete etkisi bir benzetmeyle açıklanmıştır. Gaflet halinde marifet belirli bir durumda kalırken, Allah'ı övme eylemi onu canlandırır.\n\nKitaba göre Allah'ı övme eylemi marifet üzerinde nasıl bir etki yapar?",
+    "options": [
+      "Közün üzerindeki külü kaldıran ve közü tutuşturan nefes gibidir",
+      "Tohumu sulayan yağmur gibi canlandırır",
+      "Karanlık odayı aydınlatan lamba gibidir",
+      "Donmuş nehri çözen sıcak rüzgâr gibidir"
+    ],
+    "answer": "A",
+    "sinav": 4
+  },
+  {
+    "no": "209",
     "body": "Kitapta, Cuma namazı için gerekli asgari cemaat sayısı mezheplere göre farklı belirtilmiştir.\n\nAşağıdaki mezhep-asgari sayı eşleştirmelerinden hangisi kitaba göre yanlıştır?",
     "options": [
       "Hanefî: imam dışında en az 3 kişi",
@@ -1881,10 +2505,10 @@
       "Hanefî: imam dışında en az 7 kişi"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "158",
+    "no": "210",
     "body": "Kitapta zuhr-i âhir namazı hakkında bilgi verilmiştir.\n\nKitaba göre zuhr-i âhir namazı hakkında aşağıdakilerden hangisi doğrudur?",
     "options": [
       "Şehirlerde birden fazla camide Cuma kılınması sebebiyle ihtiyaten kılınmaya başlanmıştır",
@@ -1893,10 +2517,10 @@
       "Yalnızca kadınlar tarafından kılınan özel bir namazdır"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "159",
+    "no": "211",
     "body": "Kitapta teravih namazının rekât sayısı konusunda farklı rivayetler aktarılmıştır.\n\nKitaba göre Hz. Âişe'nin bu konudaki rivayeti aşağıdakilerden hangisidir?",
     "options": [
       "Peygamberimiz Ramazan'da 20 rekâttan fazla kılmazdı",
@@ -1905,10 +2529,22 @@
       "Peygamberimiz teravihi yalnızca cemaatle kılardı"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "160",
+    "no": "212",
+    "body": "Kitapta, Peygamberimizin hadisinde namazın dinde üç farklı konumda olduğu tek bir cümlede ifade edilmiştir.\n\nKitaba göre namazın bu üç konumu aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "En sevimli ibadet, en kolay ibadet, en kısa ibadet",
+      "Dinin temeli, dinin çatısı, dinin süsü",
+      "İlk farz kılınan, ahir zamanda en son kalacak olan, kıyamette ilk hesaba çekilecek olan",
+      "En önemli ibadet, en değerli ibadet, en zor ibadet"
+    ],
+    "answer": "C",
+    "sinav": 4
+  },
+  {
+    "no": "213",
     "body": "Kitapta, seferi (yolcu) sayılmanın şartları belirtilmiştir.\n\nKitaba göre bir kişinin seferi sayılması için gerekli mesafe ve kalış süresi aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": [
       "En az 50 km mesafe, 7 günden az kalma niyeti",
@@ -1917,10 +2553,10 @@
       "En az 80 km mesafe, 10 günden az kalma niyeti"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "161",
+    "no": "214",
     "body": "Kitapta, mest üzerine mesh süresi mukim ve seferi kişiler için farklı belirtilmiştir.\n\nKitaba göre mukim ve seferi kişiler için mesh süreleri sırasıyla aşağıdakilerden hangisidir?",
     "options": [
       "12 saat ve 36 saat",
@@ -1929,10 +2565,10 @@
       "48 saat ve 96 saat"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "162",
+    "no": "215",
     "body": "Kitapta, namazda en az ne kadar Kur'ân okunması gerektiği (asgari kıraat miktarı) belirtilmiştir.\n\nKitaba göre namazda farz olan asgari kıraat miktarı aşağıdakilerden hangisidir?",
     "options": [
       "Fatiha sûresinin tamamı",
@@ -1941,10 +2577,22 @@
       "En az 3 kısa ayet veya 1 uzun ayet"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "163",
+    "no": "216",
+    "body": "Kitapta, kıyamette namazı eksik çıkan kul için Allah'ın meleklere verdiği emir anlatılmıştır.\n\nKitaba göre farz namazları eksik çıkan kulun eksikliği nasıl tamamlanır?",
+    "options": [
+      "Nafile namazlarından tamamlanır",
+      "Oruç ve zekât sevaplarından tamamlanır",
+      "Sadaka sevaplarından tamamlanır",
+      "Tamamlanmaz, eksik kalır"
+    ],
+    "answer": "A",
+    "sinav": 4
+  },
+  {
+    "no": "217",
     "body": "Kitapta, namazda sûrelerin Kur'ân'a bakarak okunması konusunda Ebû Hanîfe ile talebeleri Ebû Yûsuf ve Muhammed arasında görüş farkı olduğu belirtilmiştir.\n\nKitaba göre bu görüş farkı aşağıdakilerden hangisinde doğru verilmiştir?",
     "options": [
       "Ebû Hanîfe: namazı bozar; Ebû Yûsuf ve Muhammed: mekruh ama namaz geçerlidir",
@@ -1953,10 +2601,10 @@
       "Hepsi: tamamen caizdir"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "164",
+    "no": "218",
     "body": "Kitapta cenaze namazının yapısı ve tekbir sayısı belirtilmiştir.\n\nKitaba göre cenaze namazı hakkında aşağıdakilerden hangisi doğrudur?",
     "options": [
       "Rükû ve secdeli, 2 rekâtlı bir namazdır",
@@ -1965,10 +2613,10 @@
       "Normal namaz gibi kılınır ama 1 rekâttır"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "165",
+    "no": "219",
     "body": "Kitapta, namazın psikolojik boyutları üç temel yönde ele alınmıştır: şekli, zihinsel ve duygusal.\n\nKitaba göre namazda hissedilen korku duygusu nasıl bir korkudur?",
     "options": [
       "Allah'ın cezasından duyulan dehşet verici bir korku",
@@ -1977,10 +2625,22 @@
       "Allah'ın sevgisini ve rızasını kaybetme endişesinin doğurduğu, sevgi ve saygıya dayalı bir korku"
     ],
     "answer": "D",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "166",
+    "no": "220",
+    "body": "Kitapta, tilavet secdesi hakkında bilgi verilmiştir.\n\nKitaba göre Kur'ân'da toplam kaç secde ayeti vardır?",
+    "options": [
+      "7",
+      "10",
+      "14",
+      "20"
+    ],
+    "answer": "C",
+    "sinav": 4
+  },
+  {
+    "no": "221",
     "body": "Kitapta, namazın üstünlük ve aşağılık duygularını dengeleyici etkisi açıklanmıştır. Buna göre namaz kılan birey bu iki uç duyguyu atarak belirli bir özellik kazanır.\n\nKitaba göre namazın bireye kazandırdığı bu özellik aşağıdakilerden hangisidir?",
     "options": [
       "Liderlik",
@@ -1989,10 +2649,10 @@
       "Kararlılık"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "167",
+    "no": "222",
     "body": "Kitapta, beş vakit namazın insan hayatındaki işlevi bir benzetmeyle açıklanmıştır. Bu benzetmeye göre namaz, belirli bir meslek grubunun çalışma rutinindeki zorunlu molalara benzemektedir.\n\nKitaba göre bu benzetmede namaz neye benzetilmiştir?",
     "options": [
       "Öğrencinin ders arası molalarına",
@@ -2001,10 +2661,10 @@
       "Doktorun hastalar arasında aldığı nefes molalarına"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "168",
+    "no": "223",
     "body": "Kitapta, namazın merhamet duygusuyla olan ilişkisi açıklanmıştır. Buna göre günlük hayatta kızgınlık ve nefret gibi olumsuz duygular merhamet duygusunu baskıladığında, belirli bir mekanizma devreye girmektedir.\n\nKitaba göre merhamet duygusunun yeniden canlanmasında etkili olan unsur aşağıdakilerden hangisidir?",
     "options": [
       "Sadaka vermek",
@@ -2013,10 +2673,22 @@
       "Cemaatle ibadet etmek"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "169",
+    "no": "224",
+    "body": "Kitapta, cenaze namazının birinci tekbirinde Sübhâneke duasına yapılan bir ekleme belirtilmiştir.\n\nKitaba göre cenaze namazında Sübhâneke duasına eklenen ifade aşağıdakilerden hangisidir?",
+    "options": [
+      "Ve celle senâük",
+      "Ve lâ ilâhe gayruk",
+      "Estağfirullâh",
+      "Ve bihamdik"
+    ],
+    "answer": "A",
+    "sinav": 4
+  },
+  {
+    "no": "225",
     "body": "Kitapta Peygamberimizin Mi'rac öncesi hazırlığı anlatılmıştır.\n\nKitaba göre Peygamberimiz Mi'rac'a hazırlanırken neler olmuştur?",
     "options": [
       "Cebrail gelmiş, göğsü yarılıp zemzem ile yıkanmıştır",
@@ -2025,10 +2697,10 @@
       "Peygamberimiz Hira Mağarası'nda vahiy almıştır"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "170",
+    "no": "226",
     "body": "Kitapta, İmam Gazali'nin abdest hakkındaki görüşü aktarılmıştır. Buna göre taharet dıştan içe doğru birbirini kuşatan üç temizliği kapsar.\n\nKitaba göre bu üç temizlik dıştan içe doğru sırasıyla aşağıdakilerden hangisidir?",
     "options": [
       "Beden, kalp, ruh",
@@ -2037,10 +2709,10 @@
       "Su, sabun, havlu"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "171",
+    "no": "227",
     "body": "Kitapta, Peygamberimizin beş vakit namaz farz kılınmadan önce günde kaç vakit namaz kıldığı belirtilmiştir.\n\nKitaba göre beş vakit farz kılınmadan önceki namaz uygulaması aşağıdakilerden hangisidir?",
     "options": [
       "Günde 1 vakit (sadece sabah)",
@@ -2049,10 +2721,22 @@
       "Günde 4 vakit (sabah, öğle, ikindi, akşam)"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "172",
+    "no": "228",
+    "body": "Kitapta, namazın vakitlerinin belirlenmesinde Cebrail'in Peygamberimize imam olarak namaz kıldırmasının detayları anlatılmıştır.\n\nCebrail'in iki gün boyunca kıldırmasının gösterdiği temel ilke aşağıdakilerden hangisidir?",
+    "options": [
+      "Namaz vakitlerinin ilk ve son sınırlarının bu iki zaman arasında olduğu",
+      "Her vakit için farklı kıraat okunması gerektiği",
+      "Namazın mutlaka cemaatle kılınması gerektiği",
+      "Her rekâtta farklı sureler okunması gerektiği"
+    ],
+    "answer": "A",
+    "sinav": 4
+  },
+  {
+    "no": "229",
     "body": "Kitapta, Cebrail'in Peygamberimize Beytullah'ın yanında imam olarak namaz kıldırması anlatılmıştır.\n\nKitaba göre Cebrail kaç defa namaz kıldırmış ve bunun amacı nedir?",
     "options": [
       "İki defa; birinci gün ilk vakitlerde, ikinci gün son vakitlerde kıldırarak namaz vakitlerinin bu iki zaman arasında olduğunu göstermek için",
@@ -2061,10 +2745,10 @@
       "Beş defa; her vaktin namazını ayrı ayrı öğretmek için"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "173",
+    "no": "230",
     "body": "Kitapta, namazı doğru kılamayan bir adama Peygamberimizin namaz öğrettiği hadis aktarılmıştır. Peygamberimiz bu adama birkaç kez \"Dön ve namazını kıl, çünkü sen namaz kılmadın\" buyurmuş, ardından namazın her bir rüknünde belirli bir ifadeyi tekrar etmiştir.\n\nKitaba göre Peygamberimizin her adımda tekrarladığı ifade aşağıdakilerden hangisidir?",
     "options": [
       "Güzel bir şekilde oku",
@@ -2073,10 +2757,10 @@
       "Gözlerini secde yerine dik"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "174",
+    "no": "231",
     "body": "Kitapta, namazdan sonra kılınan tesbihat hakkında bilgi verilmiştir.\n\nKitaba göre Peygamberimiz her namazdan sonra her bir tesbihin kaç defa çekilmesini tavsiye etmiştir?",
     "options": [
       "10'ar defa",
@@ -2085,10 +2769,22 @@
       "99'ar defa"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "175",
+    "no": "232",
+    "body": "Kitapta, namaz kılarken okunan surelerin Kur'ân sırasına uyulması konusu ele alınmıştır.\n\nKitaba göre namazda sureleri Kur'ân'daki sıraya uymadan okumak aşağıdakilerden hangisine yol açar?",
+    "options": [
+      "Namazı bozar ve yeniden kılınması gerekir",
+      "Namazı bozmaz ama mekruhtur",
+      "Namazı bozmaz ve yeniden kılmayı da gerektirmez",
+      "Namazı bozar ama sehiv secdesiyle telafi edilir"
+    ],
+    "answer": "C",
+    "sinav": 4
+  },
+  {
+    "no": "233",
     "body": "Kitapta, beş vakit namazın günahları temizleme etkisi bir benzetmeyle açıklanmıştır. Bu benzetmede Peygamberimiz sahabelere bir soru sormuş ve onlar \"Hayır\" diye cevap vermişlerdir.\n\nKitaba göre bu benzetmede namaz neye benzetilmiştir?",
     "options": [
       "Evin önündeki ırmakta günde beş defa yıkanmaya",
@@ -2097,10 +2793,10 @@
       "Güneşin karanlığı aydınlatmasına"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "176",
+    "no": "234",
     "body": "Kitapta, namazların birleştirilmesi (cem) konusunda Hanefi mezhebinin diğer mezheplerden farklı bir görüşe sahip olduğu belirtilmiştir.\n\nKitaba göre Hanefi mezhebinin cem konusundaki görüşü aşağıdakilerden hangisidir?",
     "options": [
       "Her türlü yolculukta cem caizdir",
@@ -2109,10 +2805,10 @@
       "Cem hiçbir durumda caiz değildir"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "177",
+    "no": "235",
     "body": "Kitapta, müekked sünnetlerin mazeretsiz terk edilmesinin hükmü açıklanmıştır.\n\nKitaba göre müekked sünnetlerin mazeretsiz terk edilmesinin hükmü aşağıdakilerden hangisidir?",
     "options": [
       "İsâet (yanlış ve kusurlu bir davranış) olur; ancak azap gerektirmez",
@@ -2121,10 +2817,22 @@
       "Namaz tamamen geçersiz olur"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "178",
+    "no": "236",
+    "body": "Kitapta, namazın insanın kişiliği üzerindeki dönüştürücü etkisi anlatılırken, namaz kılan müminlerin her rekâtta tekrarladığı ifadenin pratik sonucu belirtilmiştir.\n\nKitaba göre 'Yalnız Sana kulluk ederiz ve yalnız senden yardım dileriz' düsturunu içtenlikle tekrarlayan bir Müslüman'ın davranışı aşağıdakilerden hangisidir?",
+    "options": [
+      "Dünya işlerinden tamamen çekilir",
+      "Liderlik vasıfları gelişir",
+      "Sadece dini konularda söz sahibi olur",
+      "Bazı çıkarlar uğruna boyun bükerek haysiyetini çiğnetmez, onurlu davranır"
+    ],
+    "answer": "D",
+    "sinav": 4
+  },
+  {
+    "no": "237",
     "body": "Kitapta, tertip sahibi kavramı tanımlanmıştır.\n\nKitaba göre aşağıdakilerden hangisi tertip sahibinin doğru tanımıdır?",
     "options": [
       "Her gün beş vakit namazını düzenli kılan kimse",
@@ -2133,10 +2841,10 @@
       "Cemaatle namazı hiç aksatmayan kimse"
     ],
     "answer": "B",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "179",
+    "no": "238",
     "body": "Kitapta, namazın insan psikolojisi üzerindeki etkisi çok boyutlu olarak ele alınmıştır. Buna göre namazın benlik üzerinde onarıcı bir etkisi vardır.\n\nKitaba göre namazın benlik üzerindeki etkisi aşağıdakilerden hangisidir?",
     "options": [
       "Olumsuz yaşantıların benlikte açtığı yaraları pansuman eder, onarır ve benlik saygısını güçlendirir",
@@ -2145,10 +2853,10 @@
       "Benliği sadece ahiret kaygısıyla şekillendirir"
     ],
     "answer": "A",
-    "sinav": 1
+    "sinav": 4
   },
   {
-    "no": "180",
+    "no": "239",
     "body": "Kitapta, namazların cem edilmesinde (birleştirilmesinde) hangi namazların birbirleriyle birleştirilebileceği belirtilmiştir.\n\nKitaba göre aşağıdaki namaz çiftlerinden hangisi cem edilemez?",
     "options": [
       "Öğle ile ikindi",
@@ -2157,6 +2865,18 @@
       "Yolculukta öğle ile ikindi"
     ],
     "answer": "C",
-    "sinav": 1
+    "sinav": 4
+  },
+  {
+    "no": "240",
+    "body": "Kitapta Ragıp Paşa'nın zamanla ilgili bir beyti aktarılmıştır. Bu beyitte saatin her çalışında insanın âh etmesi gerektiği ifade edilmektedir.\n\nKitaba göre saatin çalmasıyla gerçekte ne olmaktadır?",
+    "options": [
+      "Yeni bir nimet gelmektedir",
+      "Gece gündüze dönüşmektedir",
+      "Namaz vakti girmektedir",
+      "Ömrün geçen müddeti hatırlanmaktadır"
+    ],
+    "answer": "D",
+    "sinav": 4
   }
 ]
