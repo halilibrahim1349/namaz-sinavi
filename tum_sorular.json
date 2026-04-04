@@ -1678,5 +1678,485 @@
     ],
     "answer": "A",
     "sinav": 1
+  },
+  {
+    "no": "141",
+    "body": "Kitapta \"salât\" kelimesinin Arapçadaki anlamları verilmiştir.\n\nAşağıdakilerden hangisi kitapta belirtilen \"salât\" kelimesinin anlamlarından biri değildir?",
+    "options": [
+      "Secde etmek",
+      "Övmek",
+      "Yüceltmek",
+      "Dua etmek"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "142",
+    "body": "Kitapta Peygamberimizin namazı belirli bir benzetmeyle nitelediği aktarılmıştır. Bu benzetmeye göre namaz, bir binanın belirli bir yapısal unsuruna benzetilmiştir.\n\nKitaba göre Peygamberimiz namazı aşağıdakilerden hangisine benzetmiştir?",
+    "options": [
+      "Binanın temeli",
+      "Binanın çatısı",
+      "İslam dininin direği",
+      "İslam binasının kapısı"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "143",
+    "body": "Kitapta namaz kılmayan kişinin dini durumu açıkça belirtilmiştir. Buna göre ameller imanın bir parçası değildir ve iman esaslarını inkâr etmedikçe kişi dinden çıkmaz.\n\nKitaba göre namaz kılmayan kimsenin durumu aşağıdakilerden hangisidir?",
+    "options": [
+      "Kâfir sayılır ve İslam'dan çıkar",
+      "Münafık sayılır ama dinden çıkmaz",
+      "İmanı geçersiz sayılır ve yeniden şehadet getirmesi gerekir",
+      "Günahkârdır, Allah'ın emirlerini yerine getirmeyen biridir fakat İslam dairesi içindedir"
+    ],
+    "answer": "D",
+    "sinav": 1
+  },
+  {
+    "no": "144",
+    "body": "Kitapta namazın özü hakkında önemli bir tespit yapılmıştır. Buna göre namazda sadece şekil şartlarını yerine getirmek yeterli değildir.\n\nKitaba göre namazın özü aşağıdakilerden hangisidir?",
+    "options": [
+      "Rükünlerin eksiksiz yapılması",
+      "Ayetlerin doğru okunması",
+      "Kalbin Allah'ı anması",
+      "Cemaatle kılınması"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "145",
+    "body": "Kitapta, namaz kıldığı halde kötülük yapan kişilerin durumu açıklanmıştır. Buna göre bu kişilerin namazlarında belirli bir sorun vardır.\n\nKitaba göre bu sorun aşağıdakilerden hangisidir?",
+    "options": [
+      "Namazlarının bilinçli ve dosdoğru kılınmaması, dolayısıyla kötülükten alıkoyacak kaliteye ulaşmamış olması",
+      "Namazlarını cemaatle kılmamaları",
+      "Namazlarında yeterli miktarda Kur'ân okumamaları",
+      "Namazlarını vakit çıktıktan sonra kaza olarak kılmaları"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "146",
+    "body": "Kitapta huşunun sağlanması için üç temel husus belirtilmiştir.\n\nAşağıdakilerden hangisi kitapta huşuyu sağlamaya yardımcı olan hususlardan biri olarak belirtilmemiştir?",
+    "options": [
+      "Namazın şartlarına ve rükünlerine dikkat ederek kılınması",
+      "Kılınan namazın 'son namaz' olabileceğinin düşünülmesi",
+      "Namazın, dünyada Allah'a yaklaşmanın son noktası olduğunun idrak edilmesi",
+      "Namazı mutlaka camide cemaatle kılmak"
+    ],
+    "answer": "D",
+    "sinav": 1
+  },
+  {
+    "no": "147",
+    "body": "Kitapta namazların dinî hüküm açısından üç ana kategoriye ayrıldığı belirtilmiştir. Bu kategorilerden biri olan vacip namazlar da kendi içinde ikiye ayrılmaktadır.\n\nAşağıdakilerden hangisi li-aynihî vacip namaza örnektir?",
+    "options": [
+      "Adak namazı",
+      "Cenaze namazı",
+      "Vitir namazı",
+      "Bozulan nafile namazın kazası"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "148",
+    "body": "Kitapta nafile namazlar iki alt kategoriye ayrılmıştır: revâtib ve regâib namazlar.\n\nAşağıdakilerden hangisi kitapta regâib namazlar arasında sayılmamıştır?",
+    "options": [
+      "Teheccüd namazı",
+      "Tesbih namazı",
+      "İstihâre namazı",
+      "Teravih namazı"
+    ],
+    "answer": "D",
+    "sinav": 1
+  },
+  {
+    "no": "149",
+    "body": "Kitapta namazın geçerli olması için uyulması gereken şartlar (namazın dışındaki farzlar) altı madde olarak sıralanmıştır.\n\nAşağıdakilerden hangisi bu altı şarttan biri değildir?",
+    "options": [
+      "Hadesten taharet",
+      "Setr-i avret",
+      "Niyet",
+      "Cemaatle kılmak"
+    ],
+    "answer": "D",
+    "sinav": 1
+  },
+  {
+    "no": "150",
+    "body": "Kitapta namazın içindeki farzlar (rükünleri) altı madde olarak sıralanmıştır.\n\nAşağıdakilerden hangisi bu altı rükünden biri değildir?",
+    "options": [
+      "İftitah tekbiri",
+      "Kıraat",
+      "Ka'de-i ahire",
+      "Salli-Bârik duaları"
+    ],
+    "answer": "D",
+    "sinav": 1
+  },
+  {
+    "no": "151",
+    "body": "Kitapta, namazda avret yerinin açılması durumunda namazın bozulup bozulmayacağı belirli ölçülerle açıklanmıştır.\n\nKitaba göre namazda irade dışı açılan bir organın namazı bozması için hangi iki şartın birlikte gerçekleşmesi gerekir?",
+    "options": [
+      "Açılan yerin tamamı görülmeli ve kişi fark etmeli",
+      "Açılan yer üç saniyeden fazla sürmeli ve kişi bilerek örtmemeli",
+      "Açılan yer karşıdaki kişi tarafından fark edilmeli ve kıbleye dönük olmalı",
+      "Açılan yer bir organın dörtte biri oranına ulaşmalı ve bir rükün eda edilecek kadar açık kalmalı"
+    ],
+    "answer": "D",
+    "sinav": 1
+  },
+  {
+    "no": "152",
+    "body": "Kitapta Hanefî mezhebine göre kadınların çıplak ayakla namaz kılıp kılamayacağı konusunda bilgi verilmiştir.\n\nKitaba göre Hanefî mezhebinin bu konudaki görüşü aşağıdakilerden hangisidir?",
+    "options": [
+      "Topuklardan yukarısı açık olmamak şartıyla çıplak ayakla namaz kılınabilir",
+      "Kadınlar hiçbir durumda çıplak ayakla namaz kılamaz",
+      "Sadece evde çıplak ayakla kılınabilir, camide kılınamaz",
+      "Çorap giyilmesi her durumda farzdır"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "153",
+    "body": "Kitapta, oje, ruj gibi maddelerin abdeste etkisi ve bunun istisnaları açıklanmıştır.\n\nKitaba göre aşağıdakilerden hangisi abdeste engel olmaz?",
+    "options": [
+      "Jöle",
+      "Ruj",
+      "Oje",
+      "Boya"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "154",
+    "body": "Kitapta kerahet vakitleri üç ana vakit olarak belirtilmiştir. Bu vakitlerde kılınamayan namazlar da sayılmıştır. Ancak bir istisna olarak belirli bir namazın son kerahet vaktinde kılınabileceği ifade edilmiştir.\n\nKitaba göre güneşin batmasından önceki kerahet vaktinde kılınabilecek tek namaz aşağıdakilerden hangisidir?",
+    "options": [
+      "O günün sabah namazının kazası",
+      "O günün ikindi namazının farzı",
+      "Vitir namazı",
+      "Cenaze namazı"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "155",
+    "body": "Kitapta, sabah namazı kılınırken güneşin doğması durumunda namazın bozulup bozulmayacağı konusunda farklı görüşler aktarılmıştır.\n\nKitaba göre İmam Ebû Hanîfe'nin ve İmam Ebû Yûsuf ile Muhammed'in görüşleri aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "Ebû Hanîfe: bozulmaz; Ebû Yûsuf ve Muhammed: bozulur",
+      "Hepsi: kesinlikle bozulur",
+      "Ebû Hanîfe: bozulur; Ebû Yûsuf ve Muhammed: son oturuşta teşehhüd miktarı oturulmuşsa bozulmaz",
+      "Hepsi: kesinlikle bozulmaz"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "156",
+    "body": "Kitapta, Cuma namazının toplam rekât sayısı ve farz kısmının rekât sayısı belirtilmiştir.\n\nKitaba göre Cuma namazının sünnetleriyle birlikte toplam rekât sayısı ve farz kısmı aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "Toplam 8 rekât; farz 2 rekât",
+      "Toplam 10 rekât; farz 2 rekât",
+      "Toplam 12 rekât; farz 4 rekât",
+      "Toplam 10 rekât; farz 4 rekât"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "157",
+    "body": "Kitapta, Cuma namazı için gerekli asgari cemaat sayısı mezheplere göre farklı belirtilmiştir.\n\nAşağıdaki mezhep-asgari sayı eşleştirmelerinden hangisi kitaba göre yanlıştır?",
+    "options": [
+      "Hanefî: imam dışında en az 3 kişi",
+      "Şâfiî ve Hanbelî: en az 40 kişi",
+      "Mâlikî: en az 12 kişi",
+      "Hanefî: imam dışında en az 7 kişi"
+    ],
+    "answer": "D",
+    "sinav": 1
+  },
+  {
+    "no": "158",
+    "body": "Kitapta zuhr-i âhir namazı hakkında bilgi verilmiştir.\n\nKitaba göre zuhr-i âhir namazı hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Şehirlerde birden fazla camide Cuma kılınması sebebiyle ihtiyaten kılınmaya başlanmıştır",
+      "Hz. Peygamber zamanında düzenli olarak kılınmıştır",
+      "Cuma namazının yerine kılınan zorunlu bir namazdır",
+      "Yalnızca kadınlar tarafından kılınan özel bir namazdır"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "159",
+    "body": "Kitapta teravih namazının rekât sayısı konusunda farklı rivayetler aktarılmıştır.\n\nKitaba göre Hz. Âişe'nin bu konudaki rivayeti aşağıdakilerden hangisidir?",
+    "options": [
+      "Peygamberimiz Ramazan'da 20 rekâttan fazla kılmazdı",
+      "Peygamberimiz Ramazan'da da Ramazan dışında da 11 rekâttan fazla namaz kılmazdı",
+      "Peygamberimiz teravihi bazen 8, bazen 20 rekât kılardı",
+      "Peygamberimiz teravihi yalnızca cemaatle kılardı"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "160",
+    "body": "Kitapta, seferi (yolcu) sayılmanın şartları belirtilmiştir.\n\nKitaba göre bir kişinin seferi sayılması için gerekli mesafe ve kalış süresi aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "En az 50 km mesafe, 7 günden az kalma niyeti",
+      "En az 90 km mesafe, 15 günden az kalma niyeti",
+      "En az 120 km mesafe, 30 günden az kalma niyeti",
+      "En az 80 km mesafe, 10 günden az kalma niyeti"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "161",
+    "body": "Kitapta, mest üzerine mesh süresi mukim ve seferi kişiler için farklı belirtilmiştir.\n\nKitaba göre mukim ve seferi kişiler için mesh süreleri sırasıyla aşağıdakilerden hangisidir?",
+    "options": [
+      "12 saat ve 36 saat",
+      "24 saat ve 72 saat",
+      "1 gün ve 5 gün",
+      "48 saat ve 96 saat"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "162",
+    "body": "Kitapta, namazda en az ne kadar Kur'ân okunması gerektiği (asgari kıraat miktarı) belirtilmiştir.\n\nKitaba göre namazda farz olan asgari kıraat miktarı aşağıdakilerden hangisidir?",
+    "options": [
+      "Fatiha sûresinin tamamı",
+      "Sadece Besmele yeterlidir",
+      "En az 5 ayet",
+      "En az 3 kısa ayet veya 1 uzun ayet"
+    ],
+    "answer": "D",
+    "sinav": 1
+  },
+  {
+    "no": "163",
+    "body": "Kitapta, namazda sûrelerin Kur'ân'a bakarak okunması konusunda Ebû Hanîfe ile talebeleri Ebû Yûsuf ve Muhammed arasında görüş farkı olduğu belirtilmiştir.\n\nKitaba göre bu görüş farkı aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "Ebû Hanîfe: namazı bozar; Ebû Yûsuf ve Muhammed: mekruh ama namaz geçerlidir",
+      "Ebû Hanîfe: caizdir; Talebeleri: caiz değildir",
+      "Hepsi: kesinlikle namazı bozar",
+      "Hepsi: tamamen caizdir"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "164",
+    "body": "Kitapta cenaze namazının yapısı ve tekbir sayısı belirtilmiştir.\n\nKitaba göre cenaze namazı hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Rükû ve secdeli, 2 rekâtlı bir namazdır",
+      "Secdesiz ve rükûsuz, 4 tekbirli bir namazdır",
+      "3 tekbirli ve 1 secdeli bir namazdır",
+      "Normal namaz gibi kılınır ama 1 rekâttır"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "165",
+    "body": "Kitapta, namazın psikolojik boyutları üç temel yönde ele alınmıştır: şekli, zihinsel ve duygusal.\n\nKitaba göre namazda hissedilen korku duygusu nasıl bir korkudur?",
+    "options": [
+      "Allah'ın cezasından duyulan dehşet verici bir korku",
+      "Cehennem ateşinin azabından duyulan panik hali",
+      "Ölümün yakınlığını hissetmekten kaynaklanan varoluşsal bir korku",
+      "Allah'ın sevgisini ve rızasını kaybetme endişesinin doğurduğu, sevgi ve saygıya dayalı bir korku"
+    ],
+    "answer": "D",
+    "sinav": 1
+  },
+  {
+    "no": "166",
+    "body": "Kitapta, namazın üstünlük ve aşağılık duygularını dengeleyici etkisi açıklanmıştır. Buna göre namaz kılan birey bu iki uç duyguyu atarak belirli bir özellik kazanır.\n\nKitaba göre namazın bireye kazandırdığı bu özellik aşağıdakilerden hangisidir?",
+    "options": [
+      "Liderlik",
+      "Cesaret",
+      "Mütevazılık",
+      "Kararlılık"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "167",
+    "body": "Kitapta, beş vakit namazın insan hayatındaki işlevi bir benzetmeyle açıklanmıştır. Bu benzetmeye göre namaz, belirli bir meslek grubunun çalışma rutinindeki zorunlu molalara benzemektedir.\n\nKitaba göre bu benzetmede namaz neye benzetilmiştir?",
+    "options": [
+      "Öğrencinin ders arası molalarına",
+      "Sporcunun antrenman arası dinlenmelerine",
+      "Uzun yola çıkan şoförün belli aralıklarla verdiği molalara",
+      "Doktorun hastalar arasında aldığı nefes molalarına"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "168",
+    "body": "Kitapta, namazın merhamet duygusuyla olan ilişkisi açıklanmıştır. Buna göre günlük hayatta kızgınlık ve nefret gibi olumsuz duygular merhamet duygusunu baskıladığında, belirli bir mekanizma devreye girmektedir.\n\nKitaba göre merhamet duygusunun yeniden canlanmasında etkili olan unsur aşağıdakilerden hangisidir?",
+    "options": [
+      "Sadaka vermek",
+      "Kur'ân okumak",
+      "Kısa aralıklarla kılınan namaz ve özellikle Besmele ile Fatiha'daki Rahmân ve Rahîm kelimeleri",
+      "Cemaatle ibadet etmek"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "169",
+    "body": "Kitapta Peygamberimizin Mi'rac öncesi hazırlığı anlatılmıştır.\n\nKitaba göre Peygamberimiz Mi'rac'a hazırlanırken neler olmuştur?",
+    "options": [
+      "Cebrail gelmiş, göğsü yarılıp zemzem ile yıkanmıştır",
+      "Peygamberimiz üç gün oruç tutmuştur",
+      "Medine'den Kudüs'e yürüyerek gitmiştir",
+      "Peygamberimiz Hira Mağarası'nda vahiy almıştır"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "170",
+    "body": "Kitapta, İmam Gazali'nin abdest hakkındaki görüşü aktarılmıştır. Buna göre taharet dıştan içe doğru birbirini kuşatan üç temizliği kapsar.\n\nKitaba göre bu üç temizlik dıştan içe doğru sırasıyla aşağıdakilerden hangisidir?",
+    "options": [
+      "Beden, kalp, ruh",
+      "Elbise, beden, kalp",
+      "El, yüz, ayak",
+      "Su, sabun, havlu"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "171",
+    "body": "Kitapta, Peygamberimizin beş vakit namaz farz kılınmadan önce günde kaç vakit namaz kıldığı belirtilmiştir.\n\nKitaba göre beş vakit farz kılınmadan önceki namaz uygulaması aşağıdakilerden hangisidir?",
+    "options": [
+      "Günde 1 vakit (sadece sabah)",
+      "Günde 2 vakit (sabah ve akşam)",
+      "Günde 3 vakit (sabah, öğle, akşam)",
+      "Günde 4 vakit (sabah, öğle, ikindi, akşam)"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "172",
+    "body": "Kitapta, Cebrail'in Peygamberimize Beytullah'ın yanında imam olarak namaz kıldırması anlatılmıştır.\n\nKitaba göre Cebrail kaç defa namaz kıldırmış ve bunun amacı nedir?",
+    "options": [
+      "İki defa; birinci gün ilk vakitlerde, ikinci gün son vakitlerde kıldırarak namaz vakitlerinin bu iki zaman arasında olduğunu göstermek için",
+      "Bir defa; namazın farz olduğunu göstermek için",
+      "Üç defa; sabah, öğle ve akşam namazlarını öğretmek için",
+      "Beş defa; her vaktin namazını ayrı ayrı öğretmek için"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "173",
+    "body": "Kitapta, namazı doğru kılamayan bir adama Peygamberimizin namaz öğrettiği hadis aktarılmıştır. Peygamberimiz bu adama birkaç kez \"Dön ve namazını kıl, çünkü sen namaz kılmadın\" buyurmuş, ardından namazın her bir rüknünde belirli bir ifadeyi tekrar etmiştir.\n\nKitaba göre Peygamberimizin her adımda tekrarladığı ifade aşağıdakilerden hangisidir?",
+    "options": [
+      "Güzel bir şekilde oku",
+      "Yavaş ve itinalı ol",
+      "Organların yatışıncaya kadar",
+      "Gözlerini secde yerine dik"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "174",
+    "body": "Kitapta, namazdan sonra kılınan tesbihat hakkında bilgi verilmiştir.\n\nKitaba göre Peygamberimiz her namazdan sonra her bir tesbihin kaç defa çekilmesini tavsiye etmiştir?",
+    "options": [
+      "10'ar defa",
+      "40'ar defa",
+      "33'er defa",
+      "99'ar defa"
+    ],
+    "answer": "C",
+    "sinav": 1
+  },
+  {
+    "no": "175",
+    "body": "Kitapta, beş vakit namazın günahları temizleme etkisi bir benzetmeyle açıklanmıştır. Bu benzetmede Peygamberimiz sahabelere bir soru sormuş ve onlar \"Hayır\" diye cevap vermişlerdir.\n\nKitaba göre bu benzetmede namaz neye benzetilmiştir?",
+    "options": [
+      "Evin önündeki ırmakta günde beş defa yıkanmaya",
+      "Yağmurun toprağı yıkamasına",
+      "Rüzgârın yaprakları savurmasına",
+      "Güneşin karanlığı aydınlatmasına"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "176",
+    "body": "Kitapta, namazların birleştirilmesi (cem) konusunda Hanefi mezhebinin diğer mezheplerden farklı bir görüşe sahip olduğu belirtilmiştir.\n\nKitaba göre Hanefi mezhebinin cem konusundaki görüşü aşağıdakilerden hangisidir?",
+    "options": [
+      "Her türlü yolculukta cem caizdir",
+      "Cem yalnızca hacılar için söz konusudur",
+      "Yağmur ve fırtınada da cem yapılabilir",
+      "Cem hiçbir durumda caiz değildir"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "177",
+    "body": "Kitapta, müekked sünnetlerin mazeretsiz terk edilmesinin hükmü açıklanmıştır.\n\nKitaba göre müekked sünnetlerin mazeretsiz terk edilmesinin hükmü aşağıdakilerden hangisidir?",
+    "options": [
+      "İsâet (yanlış ve kusurlu bir davranış) olur; ancak azap gerektirmez",
+      "Günah ve azap gerektirir",
+      "Hiçbir sakıncası yoktur",
+      "Namaz tamamen geçersiz olur"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "178",
+    "body": "Kitapta, tertip sahibi kavramı tanımlanmıştır.\n\nKitaba göre aşağıdakilerden hangisi tertip sahibinin doğru tanımıdır?",
+    "options": [
+      "Her gün beş vakit namazını düzenli kılan kimse",
+      "Altı vakitten az namazı kazaya kalmış kimse",
+      "Nafile namazları hiç kaçırmayan kimse",
+      "Cemaatle namazı hiç aksatmayan kimse"
+    ],
+    "answer": "B",
+    "sinav": 1
+  },
+  {
+    "no": "179",
+    "body": "Kitapta, namazın insan psikolojisi üzerindeki etkisi çok boyutlu olarak ele alınmıştır. Buna göre namazın benlik üzerinde onarıcı bir etkisi vardır.\n\nKitaba göre namazın benlik üzerindeki etkisi aşağıdakilerden hangisidir?",
+    "options": [
+      "Olumsuz yaşantıların benlikte açtığı yaraları pansuman eder, onarır ve benlik saygısını güçlendirir",
+      "Benliği tamamen ortadan kaldırır",
+      "Benliği değiştirmez, sadece geçici bir rahatlama sağlar",
+      "Benliği sadece ahiret kaygısıyla şekillendirir"
+    ],
+    "answer": "A",
+    "sinav": 1
+  },
+  {
+    "no": "180",
+    "body": "Kitapta, namazların cem edilmesinde (birleştirilmesinde) hangi namazların birbirleriyle birleştirilebileceği belirtilmiştir.\n\nKitaba göre aşağıdaki namaz çiftlerinden hangisi cem edilemez?",
+    "options": [
+      "Öğle ile ikindi",
+      "Akşam ile yatsı",
+      "Sabah ile öğle",
+      "Yolculukta öğle ile ikindi"
+    ],
+    "answer": "C",
+    "sinav": 1
   }
 ]
